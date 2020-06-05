@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'blog',
     'ham_operators',
     'bootstrap4',
+    'leaflet',
+    'map',
 ]
 
 MIDDLEWARE = [

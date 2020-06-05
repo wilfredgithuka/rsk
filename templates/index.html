@@ -1,5 +1,31 @@
 {% extends "base.html" %} 
 {% block content %}
+
+
+<div class="container">
+    <!-- Some columns am working on -->
+    <div class="row">
+      <div class="col-md-4">
+        <h2>Events & Activities</h2>
+        <p>These are some non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+      </div>
+      <div class="col-md-4">
+        <h2>News</h2>
+        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+      </div>
+      <div class="col-md-4">
+        <h2>Beacons</h2>
+        <!--{% include 'rsk.html'|safe %}-->
+        {{ map | safe }}
+      </div>
+    </div>
+
+    <hr>
+
+  </div> <!-- /container -->
+
 <style>
     body {
         font-family: "Roboto", sans-serif;
@@ -20,22 +46,6 @@
         box-shadow: 0 16px 48px #E3E7EB;
     }
 </style>
-
-<header class="masthead">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row">
-            <div class=" col-md-8 col-md-10 mx-auto">
-                <div class="site-heading">
-                    
-                    <h3 class=" site-heading my-4 mt-3 text-white"> The Radio Society of Kenya </h3>
-                    <p class="text-light">Karibu, Welcome to the Radio Society of Kenya | 5Z4
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
 <div class="container">
     <div class="row">
         <!-- Blog Entries Column -->

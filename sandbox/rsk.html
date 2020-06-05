@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5c1c33f186ae4ea6b010c3ab15516513 {
+                    position: relative;
+                    width: 400.0px;
+                    height: 300.0px;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_5c1c33f186ae4ea6b010c3ab15516513" ></div>
+        
+</body>
+<script>    
+    
+            var map_5c1c33f186ae4ea6b010c3ab15516513 = L.map(
+                "map_5c1c33f186ae4ea6b010c3ab15516513",
+                {
+                    center: [-1.28333, 36.81667],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+            L.control.scale().addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+
+            
+
+        
+    
+            var tile_layer_fa32dac8a4fc4768b81a4df45d9b1a5f = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+        
+    
+            var marker_d9814de0af62432d849add6052fc5f00 = L.marker(
+                [-1.30364, 36.785963],
+                {"zoomStart": 12}
+            ).addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+        
+    
+        var popup_d1316b5e24d14f36916b056d9edfcd83 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b7d54f1890cc4206812d0aaac2801397 = $(`<div id="html_b7d54f1890cc4206812d0aaac2801397" style="width: 100.0%; height: 100.0%;">RSK Radio Shack 5Z4RS</div>`)[0];
+            popup_d1316b5e24d14f36916b056d9edfcd83.setContent(html_b7d54f1890cc4206812d0aaac2801397);
+        
+
+        marker_d9814de0af62432d849add6052fc5f00.bindPopup(popup_d1316b5e24d14f36916b056d9edfcd83)
+        ;
+
+        
+    
+    
+            marker_d9814de0af62432d849add6052fc5f00.bindTooltip(
+                `<div>
+                     5Z4RS Radio Shack
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4382e2088776469c89b628b4843c387d = L.marker(
+                [-1.296058, 36.761117],
+                {"zoomStart": 12}
+            ).addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+        
+    
+        var popup_768c5669693b4ca2ab8082ba42ca4bc0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_af492d624f764a47b26f68d3ba4b4015 = $(`<div id="html_af492d624f764a47b26f68d3ba4b4015" style="width: 100.0%; height: 100.0%;">NCDXF beacon 5Z4B & 2m Repeater</div>`)[0];
+            popup_768c5669693b4ca2ab8082ba42ca4bc0.setContent(html_af492d624f764a47b26f68d3ba4b4015);
+        
+
+        marker_4382e2088776469c89b628b4843c387d.bindPopup(popup_768c5669693b4ca2ab8082ba42ca4bc0)
+        ;
+
+        
+    
+    
+            marker_4382e2088776469c89b628b4843c387d.bindTooltip(
+                `<div>
+                     NCDXF Beacon 5Z4B
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2ee0b5edc147462c8471b286643f4767 = L.marker(
+                [-1.262335, 36.757378],
+                {"zoomStart": 12}
+            ).addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+        
+    
+        var popup_7d6dc570418c448d8474f522d25e54b2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0a4d8d677b864f058450c86e39b31fb9 = $(`<div id="html_0a4d8d677b864f058450c86e39b31fb9" style="width: 100.0%; height: 100.0%;">Communications Authority of Kenya</div>`)[0];
+            popup_7d6dc570418c448d8474f522d25e54b2.setContent(html_0a4d8d677b864f058450c86e39b31fb9);
+        
+
+        marker_2ee0b5edc147462c8471b286643f4767.bindPopup(popup_7d6dc570418c448d8474f522d25e54b2)
+        ;
+
+        
+    
+    
+            marker_2ee0b5edc147462c8471b286643f4767.bindTooltip(
+                `<div>
+                     CA Kenya
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_b7f1b2cd19724e1595d783092ed636aa = L.marker(
+                [-1.245479, 36.771003],
+                {"zoomStart": 12}
+            ).addTo(map_5c1c33f186ae4ea6b010c3ab15516513);
+        
+    
+        var popup_44356fc5830b489d827449ea6023c81f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_93c151bb2c1e4b748a6be46f1300bf1b = $(`<div id="html_93c151bb2c1e4b748a6be46f1300bf1b" style="width: 100.0%; height: 100.0%;">Planning House, Lower Kabete</div>`)[0];
+            popup_44356fc5830b489d827449ea6023c81f.setContent(html_93c151bb2c1e4b748a6be46f1300bf1b);
+        
+
+        marker_b7f1b2cd19724e1595d783092ed636aa.bindPopup(popup_44356fc5830b489d827449ea6023c81f)
+        ;
+
+        
+    
+    
+            marker_b7f1b2cd19724e1595d783092ed636aa.bindTooltip(
+                `<div>
+                     Planning Hse
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
