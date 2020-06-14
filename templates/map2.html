@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-{% extends "base.html" %} 
-{% block content %}
-
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    {{beacon_map.header.render|safe}}
+    {{map.header.render|safe}}
 </head>
 <body>
   <div><h1>Here comes my folium map:</h1></div>
-  {{beacon_map |safe}}
+  {{map.html.render|safe}}
   <script>
-    {{beacon_map.safe}}
+    {{map.script.render|safe}}
   </script>
 </body>
-{% end block content %}
 </html>
