@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'leaflet',
     'map',
+    'home'
 ]
 
 MIDDLEWARE = [

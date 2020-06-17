@@ -6,7 +6,7 @@ from map.utils import generate_beacon_map
 
 class PostList(generic.ListView):
     queryset = Post.objects.filter(status=1).order_by('-created_on')
-    template_name = 'index.html'
+    template_name = 'blog.html'
 
     def get_context_data(self, **kwargs):
         context = super(PostList, self).get_context_data(**kwargs)
