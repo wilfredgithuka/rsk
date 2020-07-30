@@ -1,0 +1,12 @@
+<table border="1" colspan="2" width="100%">
+   <tr>
+     <th width="60%">File</td>
+     <th width="40%">Download</td> 
+   </tr>
+ {% for file in total_files %}
+   <tr>
+     <td width="60%">{{file}}</td>
+     <td width="40%" align="center"><a href="/download/{{file}}" style="text-decoration:None">Download here</a></td>
+   </tr>
+ {% endfor %}  
+</table>

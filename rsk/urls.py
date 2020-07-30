@@ -15,11 +15,31 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.contrib.flatpages import views
+from django.conf import settings
+from django.conf.urls.static import static
+
+
+X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 urlpatterns = [
+    path('pages/', include('django.contrib.flatpages.urls')),
     path('', include('map.urls')),
     path('home/', include('home.urls')),
     path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls),
     path('operator/', include('ham_operators.urls')),
+    path('summernote/', include('django_summernote.urls')),
+    #path('files_list/',include('downloads.urls')),
+    #path(r'^download/(?P<file_name>.+)$', 'downloads.views.download'),
 ]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    #urlpatterns = patterns('',
+    #url(r'^media/(?P<path>.*)$', 'django.views.static.serve',{'document_root': settings.MEDIA_ROOT, 'show_indexes': True}),
+    #) + urlpatterns
+
+
+
+    #url(r'^media/(?P<path>.*)$', 'django.views.static.serve',{'document_root': settings.MEDIA_ROOT, 'show_indexes': True}), + urlpatterns
