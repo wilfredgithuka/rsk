@@ -43,14 +43,10 @@ INSTALLED_APPS = [
     'blog',
     'ham_operators',
     'bootstrap4',
-    'leaflet',
+#    'leaflet',
     'map',
     'home',
     'django_summernote',
-#    'downloads',
-#    'pages',
-#    'articles',
-#    'core',
 ]
 
 MIDDLEWARE = [
