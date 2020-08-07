@@ -24,8 +24,8 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 urlpatterns = [
     path('pages/', include('django.contrib.flatpages.urls')),
-    path('', include('map.urls')),
-    path('home/', include('home.urls')),
+    #path('', include('map.urls')),
+    path('', include('home.urls')),
     path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls),
     path('operator/', include('ham_operators.urls')),

@@ -1,0 +1,1631 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 18:24:07 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /var/www/rsk
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:04 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:10 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:16 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:22 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:28 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:37 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:46 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:43:55 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:44:07 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:44:19 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:44:31 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:44:46 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:45:01 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:45:16 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:45:34 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:45:52 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:46:10 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:46:31 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:46:52 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:47:13 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:47:37 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:48:01 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:48:26 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:48:53 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:49:20 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:49:47 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:50:17 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:50:47 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:51:17 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:51:50 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:52:23 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:52:56 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:53:32 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:54:08 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:54:44 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:55:23 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:56:02 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:56:41 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:57:23 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:58:05 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:58:47 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 20:59:32 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:00:18 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:00:25 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /var/www/rsk
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:01:03 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:01:51 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/appdata
+chdir(): No such file or directory [core/uwsgi.c line 2625]
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:02:39 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x5634e6f7d650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+ModuleNotFoundError: No module named 'rsk.uwsgi'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 40736)
+spawned uWSGI worker 1 (pid: 40737, cores: 1)
+Thu Aug  6 21:13:30 2020 - received message 1 from emperor
+...gracefully killing workers...
+Gracefully killing worker 1 (pid: 40737)...
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:13:31 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x5585074bed50
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+ModuleNotFoundError: No module named 'rsk.uwsgi'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 40736)
+spawned uWSGI worker 1 (pid: 40805, cores: 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/1] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:14:43 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+announcing my loyalty to the Emperor...
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/2] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:16:46 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/3] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:16:47 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/4] 41.80.4.220 () {42 vars in 722 bytes} [Thu Aug  6 21:23:25 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/5] 41.80.4.220 () {44 vars in 744 bytes} [Thu Aug  6 21:23:28 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/6] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:25:56 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/7] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:25:57 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/8] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:26:51 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40805|app: -1|req: -1/9] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 21:26:52 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+Thu Aug  6 21:31:41 2020 - received message 1 from emperor
+...gracefully killing workers...
+Gracefully killing worker 1 (pid: 40805)...
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:31:42 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x563b3e50bd50
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+Traceback (most recent call last):
+  File "./rsk/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 40736)
+spawned uWSGI worker 1 (pid: 40876, cores: 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 40876|app: -1|req: -1/1] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 21:34:31 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+announcing my loyalty to the Emperor...
+--- no python application found, check your startup logs for errors ---
+[pid: 40876|app: -1|req: -1/2] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 21:51:46 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40876|app: -1|req: -1/3] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 21:51:49 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40876|app: -1|req: -1/4] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 21:53:06 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+Thu Aug  6 21:56:39 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+uwsgi_master_manage_emperor()/read(): Bad file descriptor [core/emperor.c line 2442]
+lost connection with my emperor !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 21:56:43 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x563c0268d650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+Traceback (most recent call last):
+  File "./rsk/wsgi.py", line 12, in <module>
+    from django.core.wsgi import get_wsgi_application
+ModuleNotFoundError: No module named 'django'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 40985)
+spawned uWSGI worker 1 (pid: 40986, cores: 1)
+--- no python application found, check your startup logs for errors ---
+[pid: 40986|app: -1|req: -1/1] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 21:56:56 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+announcing my loyalty to the Emperor...
+--- no python application found, check your startup logs for errors ---
+[pid: 40986|app: -1|req: -1/2] 66.249.79.9 () {36 vars in 517 bytes} [Thu Aug  6 22:14:25 2020] GET /robots.txt => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 40986|app: -1|req: -1/3] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:19:04 2020] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+Thu Aug  6 22:33:25 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 22:33:28 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x55c62b4fb650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55c62b4fb650 pid: 41226 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 41226)
+spawned uWSGI worker 1 (pid: 41228, cores: 1)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/usr/lib/python3.8/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/usr/lib/python3.8/site-packages/django/http/request.py", line 137, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.rsk.or.ke'. You may need to add 'www.rsk.or.ke' to ALLOWED_HOSTS.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 120, in get_exception_response
+    callback, param_dict = resolver.resolve_error_handler(status_code)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 95, in response_for_exception
+    response = get_exception_response(request, get_resolver(get_urlconf()), 400, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 124, in get_exception_response
+    response = handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 133, in __call__
+    response = self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/base.py", line 128, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+[pid: 41228|app: 0|req: 1/1] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:34:27 2020] GET / => generated 0 bytes in 49 msecs (HTTP/1.1 500) 0 headers in 0 bytes (0 switches on core 0)
+announcing my loyalty to the Emperor...
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/usr/lib/python3.8/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/usr/lib/python3.8/site-packages/django/http/request.py", line 137, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.rsk.or.ke'. You may need to add 'www.rsk.or.ke' to ALLOWED_HOSTS.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 120, in get_exception_response
+    callback, param_dict = resolver.resolve_error_handler(status_code)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 95, in response_for_exception
+    response = get_exception_response(request, get_resolver(get_urlconf()), 400, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 124, in get_exception_response
+    response = handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 133, in __call__
+    response = self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/base.py", line 128, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+[pid: 41228|app: 0|req: 2/2] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:35:22 2020] GET / => generated 0 bytes in 27 msecs (HTTP/1.1 500) 0 headers in 0 bytes (0 switches on core 0)
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 113, in __call__
+    response = self.process_request(request)
+  File "/usr/lib/python3.8/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/usr/lib/python3.8/site-packages/django/http/request.py", line 137, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.rsk.or.ke'. You may need to add 'www.rsk.or.ke' to ALLOWED_HOSTS.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 120, in get_exception_response
+    callback, param_dict = resolver.resolve_error_handler(status_code)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 95, in response_for_exception
+    response = get_exception_response(request, get_resolver(get_urlconf()), 400, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 124, in get_exception_response
+    response = handle_uncaught_exception(request, resolver, sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/utils/deprecation.py", line 114, in __call__
+    response = response or self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/wsgi.py", line 133, in __call__
+    response = self.get_response(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/base.py", line 128, in get_response
+    response = self._middleware_chain(request)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 49, in inner
+    response = response_for_exception(request, exc)
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 103, in response_for_exception
+    response = handle_uncaught_exception(request, get_resolver(get_urlconf()), sys.exc_info())
+  File "/usr/lib/python3.8/site-packages/django/core/handlers/exception.py", line 141, in handle_uncaught_exception
+    callback, param_dict = resolver.resolve_error_handler(500)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 602, in resolve_error_handler
+    callback = getattr(self.urlconf_module, 'handler%s' % view_type, None)
+  File "/usr/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/lib/python3.8/site-packages/django/urls/resolvers.py", line 582, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./rsk/urls.py", line 27, in <module>
+    path('', include('map.urls')),
+  File "/usr/lib/python3.8/site-packages/django/urls/conf.py", line 34, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./map/urls.py", line 1, in <module>
+    from . import views
+  File "./map/views.py", line 3, in <module>
+    from map.utils import generate_beacon_map
+  File "./map/utils.py", line 1, in <module>
+    import folium
+ModuleNotFoundError: No module named 'folium'
+[pid: 41228|app: 0|req: 3/3] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:35:24 2020] GET / => generated 0 bytes in 25 msecs (HTTP/1.1 500) 0 headers in 0 bytes (0 switches on core 0)
+Thu Aug  6 22:37:11 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 22:37:14 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x56321ce9c650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56321ce9c650 pid: 41263 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 41263)
+spawned uWSGI worker 1 (pid: 41265, cores: 1)
+[pid: 41265|app: 0|req: 1/1] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:37:20 2020] GET / => generated 143 bytes in 658 msecs (HTTP/1.1 400) 3 headers in 116 bytes (2 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 41265|app: 0|req: 2/2] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 22:38:46 2020] GET / => generated 143 bytes in 14 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 41265|app: 0|req: 3/3] 41.80.4.220 () {40 vars in 700 bytes} [Thu Aug  6 22:43:09 2020] GET / => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+Thu Aug  6 22:45:58 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 22:46:01 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x55e098145650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55e098145650 pid: 41332 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 41332)
+spawned uWSGI worker 1 (pid: 41334, cores: 1)
+[pid: 41334|app: 0|req: 1/1] 41.80.4.220 () {40 vars in 708 bytes} [Thu Aug  6 22:50:19 2020] GET /home => generated 143 bytes in 583 msecs (HTTP/1.1 400) 3 headers in 116 bytes (2 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 41334|app: 0|req: 2/2] 41.80.4.220 () {42 vars in 739 bytes} [Thu Aug  6 22:53:43 2020] GET /home => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 41334|app: 0|req: 3/3] 41.80.4.220 () {40 vars in 700 bytes} [Thu Aug  6 22:53:50 2020] GET / => generated 143 bytes in 11 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 41334|app: 0|req: 4/4] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 22:58:50 2020] GET / => generated 179 bytes in 31 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41334|app: 0|req: 5/5] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 22:59:55 2020] GET / => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+Thu Aug  6 23:01:05 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug  6 23:01:08 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x558e3b5df650
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x558e3b5df650 pid: 41423 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 41423)
+spawned uWSGI worker 1 (pid: 41425, cores: 1)
+[pid: 41425|app: 0|req: 1/1] 41.80.4.220 () {42 vars in 723 bytes} [Thu Aug  6 23:01:22 2020] GET / => generated 179 bytes in 625 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 41425|app: 0|req: 2/2] 41.80.4.220 () {40 vars in 700 bytes} [Thu Aug  6 23:01:29 2020] GET /home => generated 0 bytes in 1 msecs (HTTP/1.1 301) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 3/3] 41.80.4.220 () {40 vars in 702 bytes} [Thu Aug  6 23:01:29 2020] GET /home/ => generated 20899 bytes in 27 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 4/4] 41.80.4.220 () {40 vars in 625 bytes} [Thu Aug  6 23:01:30 2020] GET /home/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 5/5] 41.80.4.220 () {42 vars in 754 bytes} [Thu Aug  6 23:02:01 2020] GET /home => generated 0 bytes in 4 msecs (HTTP/1.1 301) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 6/6] 41.80.4.220 () {42 vars in 756 bytes} [Thu Aug  6 23:02:01 2020] GET /home/ => generated 20899 bytes in 78 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 7/7] 41.80.4.220 () {42 vars in 718 bytes} [Thu Aug  6 23:02:01 2020] GET /home/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 8/8] 41.80.4.220 () {42 vars in 725 bytes} [Thu Aug  6 23:02:04 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 9/9] 41.80.4.220 () {42 vars in 754 bytes} [Thu Aug  6 23:03:12 2020] GET /blog => generated 0 bytes in 1 msecs (HTTP/1.1 301) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 10/10] 41.80.4.220 () {42 vars in 756 bytes} [Thu Aug  6 23:03:12 2020] GET /blog/ => generated 9574 bytes in 62 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 11/11] 41.80.4.220 () {42 vars in 718 bytes} [Thu Aug  6 23:03:12 2020] GET /blog/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 12/12] 41.80.4.220 () {42 vars in 763 bytes} [Thu Aug  6 23:03:13 2020] GET /blog/images/mutiny_PNk31gb.png => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 13/13] 41.80.4.220 () {42 vars in 757 bytes} [Thu Aug  6 23:03:13 2020] GET /blog/images/kikuyu_temp.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 14/14] 41.80.4.220 () {42 vars in 747 bytes} [Thu Aug  6 23:03:13 2020] GET /blog/images/mutiny.png => generated 179 bytes in 12 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 15/15] 41.80.4.220 () {42 vars in 731 bytes} [Thu Aug  6 23:03:13 2020] GET /blog/alt=%22RSK => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 16/16] 41.80.4.220 () {44 vars in 810 bytes} [Thu Aug  6 23:03:30 2020] GET /blog/Licence/ => generated 13603 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 17/17] 41.80.4.220 () {42 vars in 742 bytes} [Thu Aug  6 23:03:30 2020] GET /blog/Licence/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 18/18] 41.80.4.220 () {42 vars in 861 bytes} [Thu Aug  6 23:03:30 2020] GET /media/django-summernote/2020-07-11/cb56c563-f67e-4519-9357-aac62ef1bc5f.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 19/19] 41.80.4.220 () {44 vars in 804 bytes} [Thu Aug  6 23:12:04 2020] GET /admin/ => generated 0 bytes in 17 msecs (HTTP/1.1 302) 9 headers in 331 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 20/20] 41.80.4.220 () {44 vars in 841 bytes} [Thu Aug  6 23:12:04 2020] GET /admin/login/?next=/admin/ => generated 2194 bytes in 18 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 21/21] 41.80.4.220 () {40 vars in 692 bytes} [Fri Aug  7 07:44:35 2020] GET / => generated 179 bytes in 4 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 22/22] 41.80.4.220 () {40 vars in 627 bytes} [Fri Aug  7 07:44:36 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 23/23] 41.80.4.220 () {40 vars in 702 bytes} [Fri Aug  7 07:56:57 2020] GET /home/ => generated 20899 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 24/24] 41.80.4.220 () {40 vars in 625 bytes} [Fri Aug  7 07:56:57 2020] GET /home/jumbotron.css => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 25/25] 41.80.4.220 () {40 vars in 692 bytes} [Fri Aug  7 14:33:31 2020] GET / => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 26/26] 41.80.4.220 () {40 vars in 702 bytes} [Fri Aug  7 14:33:31 2020] GET /home/ => generated 20899 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 27/27] 41.80.4.220 () {40 vars in 625 bytes} [Fri Aug  7 14:33:32 2020] GET /home/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 28/28] 41.80.4.220 () {42 vars in 733 bytes} [Fri Aug  7 15:53:01 2020] GET /home/ => generated 20899 bytes in 29 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 29/29] 41.80.4.220 () {40 vars in 625 bytes} [Fri Aug  7 15:53:02 2020] GET /home/jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 30/30] 41.80.4.220 () {44 vars in 755 bytes} [Fri Aug  7 15:53:10 2020] GET /home/ => generated 20899 bytes in 27 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 31/31] 41.80.4.220 () {44 vars in 678 bytes} [Fri Aug  7 15:53:11 2020] GET /home/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 32/32] 41.80.4.220 () {44 vars in 685 bytes} [Fri Aug  7 15:53:14 2020] GET /favicon.ico => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 41425|app: 0|req: 33/33] 41.80.4.220 () {40 vars in 692 bytes} [Fri Aug  7 15:53:26 2020] GET / => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+Fri Aug  7 15:55:56 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Fri Aug  7 15:55:59 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x559307a47660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x559307a47660 pid: 44725 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 44725)
+spawned uWSGI worker 1 (pid: 44727, cores: 1)
+[pid: 44727|app: 0|req: 1/1] 41.80.4.220 () {40 vars in 702 bytes} [Fri Aug  7 15:56:43 2020] GET /home/ => generated 179 bytes in 590 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 44727|app: 0|req: 2/2] 41.80.4.220 () {40 vars in 692 bytes} [Fri Aug  7 15:56:50 2020] GET / => generated 20899 bytes in 22 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 44727|app: 0|req: 3/3] 41.80.4.220 () {40 vars in 610 bytes} [Fri Aug  7 15:56:50 2020] GET /jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)

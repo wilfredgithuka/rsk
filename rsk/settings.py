@@ -24,9 +24,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 SECRET_KEY = ')u$et+bfu)l+0!axv6-=unj)&&o24*^mzf%mb44mlovx1%c(v4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+     'rsk.or.ke',
+]
 
 
 # Application definition
@@ -131,3 +133,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/var/www/rsk/static'
