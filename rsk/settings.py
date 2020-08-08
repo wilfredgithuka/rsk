@@ -24,11 +24,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 SECRET_KEY = ')u$et+bfu)l+0!axv6-=unj)&&o24*^mzf%mb44mlovx1%c(v4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = [
-     'rsk.or.ke',
-]
+#ALLOWED_HOSTS = [
+#     'rsk.or.ke',
+#]
 
 
 # Application definition
