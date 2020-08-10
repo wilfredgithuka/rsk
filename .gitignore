@@ -1,0 +1,7 @@
+# Ignore the database file
+db.sqlite3
+
+# Untrack the media folder
+media/
+
+
