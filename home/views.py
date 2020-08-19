@@ -1,6 +1,9 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
+from django.views.generic.detail import DetailView
 
+from .models import HomeItems
+from django.views import generic
 from map.utils import generate_beacon_map
 
 class HomePageView(TemplateView):
@@ -12,3 +15,5 @@ class HomePageView(TemplateView):
         context["beacon_map"] = beacon_map
         return context
 
+class HomeItemsView(DetailView):
+    model = HomeItems

@@ -1,13 +1,12 @@
-{% extends "base.html" %} 
+{% extends "base.html" %}
 {% block content %}
-
 
 <div class="container">
     <!-- Some columns am working on -->
     <div class="row">
       <div class="col-md-4">
         <h2>What is Ham Radio?</h2>
-        <p style="font-size:90%;"> There are only about 75 Full amateur licenses issued and current in Kenya, plus some Novices, but many of the holders live abroad. Only about 8 are now regularly active within Kenya. The Society Station 5Z4RS, based at the HQ & Shack.</p>
+        <p style="font-size:90%;"> Test Content: {{ HomeItems.description }} </p>
         <p><a class="btn btn-secondary" href="/about/" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">
@@ -38,7 +37,7 @@
         font-size: 18px;
         background-color: #fdfdfd;
     }
-    
+
     .head_text {
         color: white;
     }
@@ -47,7 +46,7 @@
         padding: 15px;
         width: auto;
     }
-    
+
     .card {
         box-shadow: 0 16px 48px #E3E7EB;
     }

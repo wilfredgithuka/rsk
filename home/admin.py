@@ -1,3 +1,8 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import HomeItems
+
+class HomeItemsAdmin(admin.ModelAdmin):
+    list_display = ('title', 'description', 'box1', 'box2', 'image')
+
+admin.site.register(HomeItems, HomeItemsAdmin)
