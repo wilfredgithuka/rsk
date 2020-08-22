@@ -2619,3 +2619,837 @@ announcing my loyalty to the Emperor...
 [pid: 48423|app: 0|req: 120/120] 66.249.93.21 () {38 vars in 577 bytes} [Mon Aug 10 15:18:39 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
 [pid: 48423|app: 0|req: 121/121] 66.249.93.21 () {38 vars in 611 bytes} [Mon Aug 10 16:46:33 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
 [pid: 48423|app: 0|req: 122/122] 66.249.93.20 () {38 vars in 577 bytes} [Mon Aug 10 16:46:34 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 123/123] 41.80.4.220 () {42 vars in 825 bytes} [Mon Aug 10 17:27:33 2020] GET / => generated 21084 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 124/124] 41.80.4.220 () {42 vars in 743 bytes} [Mon Aug 10 17:27:34 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 125/125] 41.80.4.220 () {42 vars in 760 bytes} [Mon Aug 10 17:27:45 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 126/126] 41.80.4.220 () {42 vars in 825 bytes} [Mon Aug 10 17:59:51 2020] GET / => generated 21084 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 127/127] 41.80.4.220 () {42 vars in 743 bytes} [Mon Aug 10 17:59:51 2020] GET /jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 128/128] 54.36.148.152 () {34 vars in 437 bytes} [Mon Aug 10 23:41:35 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 129/129] 66.249.93.14 () {38 vars in 611 bytes} [Tue Aug 11 04:59:09 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 130/130] 66.249.93.12 () {38 vars in 578 bytes} [Tue Aug 11 06:51:48 2020] GET /favicon.ico => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 131/131] 197.136.63.5 () {48 vars in 1013 bytes} [Tue Aug 11 07:22:02 2020] GET /admin/flatpages/flatpage/1/change/ => generated 12141 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 132/132] 197.136.63.5 () {44 vars in 793 bytes} [Tue Aug 11 07:22:03 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 133/133] 197.136.63.5 () {46 vars in 955 bytes} [Tue Aug 11 07:22:12 2020] GET /admin/flatpages/ => generated 2778 bytes in 16 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 134/134] 197.136.63.5 () {46 vars in 917 bytes} [Tue Aug 11 07:22:15 2020] GET /admin/ => generated 8686 bytes in 25 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 135/135] 197.136.63.5 () {46 vars in 927 bytes} [Tue Aug 11 07:22:23 2020] GET /admin/blog/post/ => generated 7993 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 136/136] 197.136.63.5 () {44 vars in 775 bytes} [Tue Aug 11 07:22:24 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 137/137] 197.136.63.5 () {46 vars in 955 bytes} [Tue Aug 11 07:22:27 2020] GET /admin/blog/post/2/change/ => generated 14497 bytes in 74 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 138/138] 197.136.63.5 () {44 vars in 784 bytes} [Tue Aug 11 07:22:28 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 139/139] 197.136.63.5 () {46 vars in 972 bytes} [Tue Aug 11 07:22:28 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 140/140] 197.136.63.5 () {46 vars in 927 bytes} [Tue Aug 11 07:22:48 2020] GET /admin/blog/post/ => generated 7993 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 141/141] 197.136.63.5 () {46 vars in 955 bytes} [Tue Aug 11 07:22:52 2020] GET /admin/flatpages/flatpage/ => generated 9698 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 142/142] 197.136.63.5 () {44 vars in 784 bytes} [Tue Aug 11 07:22:52 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 143/143] 197.136.63.5 () {46 vars in 982 bytes} [Tue Aug 11 07:22:57 2020] GET /admin/flatpages/flatpage/3/change/ => generated 19929 bytes in 33 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 144/144] 197.136.63.5 () {44 vars in 793 bytes} [Tue Aug 11 07:22:57 2020] GET /admin/jsi18n/ => generated 3187 bytes in 11 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 145/145] 66.249.93.12 () {38 vars in 577 bytes} [Tue Aug 11 08:25:09 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 146/146] 41.80.4.220 () {42 vars in 825 bytes} [Tue Aug 11 08:25:26 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 147/147] 41.80.4.220 () {42 vars in 743 bytes} [Tue Aug 11 08:25:26 2020] GET /jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 148/148] 41.80.4.220 () {42 vars in 760 bytes} [Tue Aug 11 08:25:29 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 149/149] 54.36.148.63 () {34 vars in 456 bytes} [Tue Aug 11 16:43:27 2020] GET /robots.txt => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 150/150] 54.36.148.238 () {34 vars in 437 bytes} [Tue Aug 11 16:43:28 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 151/151] 167.71.202.93 () {34 vars in 464 bytes} [Tue Aug 11 17:24:38 2020] GET /wp-login.php => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 152/152] 66.249.93.12 () {38 vars in 611 bytes} [Tue Aug 11 17:34:27 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 153/153] 66.249.93.22 () {38 vars in 577 bytes} [Wed Aug 12 04:17:43 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 154/154] 197.136.63.5 () {46 vars in 957 bytes} [Wed Aug 12 07:13:06 2020] GET /admin/sites/site/ => generated 8393 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 155/155] 197.136.63.5 () {44 vars in 776 bytes} [Wed Aug 12 07:13:07 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 156/156] 197.136.63.5 () {46 vars in 964 bytes} [Wed Aug 12 07:13:13 2020] GET /admin/ham_operators/operator/ => generated 9859 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 157/157] 197.136.63.5 () {44 vars in 788 bytes} [Wed Aug 12 07:13:14 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 158/158] 197.136.63.5 () {46 vars in 968 bytes} [Wed Aug 12 07:13:18 2020] GET /admin/flatpages/flatpage/ => generated 9698 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 159/159] 197.136.63.5 () {44 vars in 784 bytes} [Wed Aug 12 07:13:18 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 160/160] 197.136.63.5 () {46 vars in 982 bytes} [Wed Aug 12 07:13:25 2020] GET /admin/flatpages/flatpage/1/change/ => generated 12141 bytes in 35 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 161/161] 197.136.63.5 () {44 vars in 793 bytes} [Wed Aug 12 07:13:26 2020] GET /admin/jsi18n/ => generated 3187 bytes in 9 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 162/162] 197.136.63.5 () {46 vars in 955 bytes} [Wed Aug 12 07:13:55 2020] GET /admin/blog/post/ => generated 7993 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 163/163] 197.136.63.5 () {44 vars in 775 bytes} [Wed Aug 12 07:13:56 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 164/164] 197.136.63.5 () {46 vars in 955 bytes} [Wed Aug 12 07:14:00 2020] GET /admin/blog/post/1/change/ => generated 11968 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 165/165] 197.136.63.5 () {44 vars in 784 bytes} [Wed Aug 12 07:14:01 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 166/166] 197.136.63.5 () {46 vars in 972 bytes} [Wed Aug 12 07:14:01 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 167/167] 197.136.63.5 () {46 vars in 955 bytes} [Wed Aug 12 07:14:09 2020] GET /admin/blog/post/ => generated 7993 bytes in 23 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 168/168] 197.136.63.5 () {46 vars in 975 bytes} [Wed Aug 12 07:14:15 2020] GET /admin/django_summernote/attachment/ => generated 9796 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 169/169] 197.136.63.5 () {44 vars in 794 bytes} [Wed Aug 12 07:14:15 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 170/170] 54.202.34.222 () {34 vars in 419 bytes} [Wed Aug 12 07:37:30 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (2 switches on core 0)
+[pid: 48423|app: 0|req: 171/171] 66.249.93.21 () {38 vars in 577 bytes} [Wed Aug 12 08:26:26 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 172/172] 54.36.148.151 () {34 vars in 437 bytes} [Wed Aug 12 08:28:02 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 173/173] 66.249.93.21 () {38 vars in 611 bytes} [Wed Aug 12 19:01:10 2020] GET / => generated 21084 bytes in 20 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 174/174] 66.249.93.21 () {38 vars in 577 bytes} [Wed Aug 12 20:11:10 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 175/175] 188.165.230.118 () {34 vars in 503 bytes} [Wed Aug 12 23:56:59 2020] GET /wp-login.php => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 176/176] 188.165.230.118 () {34 vars in 499 bytes} [Wed Aug 12 23:57:07 2020] GET /robots.txt => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 177/177] 54.36.148.123 () {34 vars in 457 bytes} [Thu Aug 13 01:19:14 2020] GET /robots.txt => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (2 switches on core 0)
+[pid: 48423|app: 0|req: 178/178] 54.36.148.115 () {34 vars in 437 bytes} [Thu Aug 13 01:19:15 2020] GET / => generated 21084 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 179/179] 66.249.93.20 () {38 vars in 611 bytes} [Thu Aug 13 07:04:26 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 180/180] 66.249.93.21 () {38 vars in 577 bytes} [Thu Aug 13 13:24:53 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 181/181] 54.36.148.162 () {34 vars in 437 bytes} [Thu Aug 13 18:26:59 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 182/182] 66.249.93.20 () {38 vars in 611 bytes} [Thu Aug 13 19:06:19 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 183/183] 66.249.93.24 () {38 vars in 578 bytes} [Fri Aug 14 12:51:19 2020] GET /favicon.ico => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 184/184] 54.36.148.71 () {34 vars in 456 bytes} [Fri Aug 14 15:01:30 2020] GET /robots.txt => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 185/185] 54.36.148.238 () {34 vars in 437 bytes} [Fri Aug 14 15:01:31 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 186/186] 66.249.93.26 () {38 vars in 577 bytes} [Fri Aug 14 17:20:03 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 187/187] 66.249.93.26 () {38 vars in 611 bytes} [Sat Aug 15 04:24:42 2020] GET / => generated 21084 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 188/188] 54.36.148.238 () {34 vars in 437 bytes} [Sat Aug 15 08:05:50 2020] GET / => generated 21084 bytes in 20 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 189/189] 54.36.149.16 () {34 vars in 456 bytes} [Sun Aug 16 00:32:32 2020] GET /robots.txt => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 190/190] 54.36.148.31 () {34 vars in 436 bytes} [Sun Aug 16 00:32:33 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 191/191] 66.249.93.26 () {38 vars in 611 bytes} [Sun Aug 16 04:53:14 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 192/192] 66.249.93.26 () {38 vars in 577 bytes} [Sun Aug 16 04:53:15 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 193/193] 197.232.38.166 () {42 vars in 719 bytes} [Sun Aug 16 08:22:53 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 194/194] 197.232.38.166 () {42 vars in 637 bytes} [Sun Aug 16 08:22:53 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 195/195] 197.232.38.166 () {42 vars in 654 bytes} [Sun Aug 16 08:22:55 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 196/196] 66.249.93.26 () {38 vars in 604 bytes} [Sun Aug 16 11:11:24 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 197/197] 54.36.148.238 () {34 vars in 437 bytes} [Sun Aug 16 15:44:24 2020] GET / => generated 21084 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 198/198] 3.136.25.211 () {32 vars in 358 bytes} [Sun Aug 16 20:54:31 2020] GET /.git/HEAD => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 199/199] 72.48.173.236 () {40 vars in 650 bytes} [Mon Aug 17 02:37:27 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 200/200] 72.48.173.236 () {38 vars in 555 bytes} [Mon Aug 17 02:37:28 2020] GET /apple-touch-icon-152x152-precomposed.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 201/201] 72.48.173.236 () {38 vars in 531 bytes} [Mon Aug 17 02:37:28 2020] GET /apple-touch-icon-152x152.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 202/202] 72.48.173.236 () {38 vars in 539 bytes} [Mon Aug 17 02:37:28 2020] GET /apple-touch-icon-precomposed.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 203/203] 72.48.173.236 () {38 vars in 515 bytes} [Mon Aug 17 02:37:28 2020] GET /apple-touch-icon.png => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 204/204] 72.48.173.236 () {38 vars in 497 bytes} [Mon Aug 17 02:37:29 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 205/205] 72.48.173.236 () {38 vars in 555 bytes} [Mon Aug 17 02:37:29 2020] GET /apple-touch-icon-152x152-precomposed.png => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 206/206] 72.48.173.236 () {38 vars in 531 bytes} [Mon Aug 17 02:37:29 2020] GET /apple-touch-icon-152x152.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 207/207] 72.48.173.236 () {38 vars in 539 bytes} [Mon Aug 17 02:37:29 2020] GET /apple-touch-icon-precomposed.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 208/208] 72.48.173.236 () {38 vars in 515 bytes} [Mon Aug 17 02:37:30 2020] GET /apple-touch-icon.png => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 209/209] 72.48.173.236 () {38 vars in 497 bytes} [Mon Aug 17 02:37:30 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 210/210] 66.249.79.243 () {36 vars in 511 bytes} [Mon Aug 17 03:12:31 2020] GET /robots.txt => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 211/211] 66.249.79.243 () {38 vars in 569 bytes} [Mon Aug 17 03:12:31 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 212/212] 66.249.93.26 () {38 vars in 603 bytes} [Mon Aug 17 04:55:45 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 213/213] 50.62.177.122 () {34 vars in 542 bytes} [Mon Aug 17 05:05:11 2020] GET /wp/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 214/214] 111.90.133.10 () {34 vars in 546 bytes} [Mon Aug 17 05:06:01 2020] GET /blog/wp-includes/wlwmanifest.xml => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 215/215] 160.153.154.2 () {34 vars in 546 bytes} [Mon Aug 17 05:06:47 2020] GET /site/wp-includes/wlwmanifest.xml => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 216/216] 107.180.120.41 () {34 vars in 545 bytes} [Mon Aug 17 05:07:02 2020] GET /old/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 217/217] 198.71.239.36 () {34 vars in 546 bytes} [Mon Aug 17 05:07:18 2020] GET /test/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 218/218] 188.166.91.35 () {34 vars in 550 bytes} [Mon Aug 17 05:08:23 2020] GET /backup/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 219/219] 66.113.223.212 () {34 vars in 545 bytes} [Mon Aug 17 05:08:39 2020] GET /new/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 220/220] 103.233.187.1 () {34 vars in 544 bytes} [Mon Aug 17 05:09:27 2020] GET /web/wp-includes/wlwmanifest.xml => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 221/221] 212.129.24.108 () {34 vars in 545 bytes} [Mon Aug 17 05:09:47 2020] GET /dev/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 222/222] 185.14.57.4 () {34 vars in 544 bytes} [Mon Aug 17 05:10:02 2020] GET /home/wp-includes/wlwmanifest.xml => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 223/223] 198.71.239.48 () {34 vars in 544 bytes} [Mon Aug 17 05:10:18 2020] GET /cms/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 224/224] 97.74.24.205 () {34 vars in 543 bytes} [Mon Aug 17 05:10:34 2020] GET /www/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 225/225] 198.71.239.33 () {34 vars in 552 bytes} [Mon Aug 17 05:11:19 2020] GET /staging/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 226/226] 184.168.193.99 () {34 vars in 547 bytes} [Mon Aug 17 05:11:35 2020] GET /beta/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 227/227] 195.74.38.171 () {34 vars in 546 bytes} [Mon Aug 17 05:11:52 2020] GET /news/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 228/228] 45.40.166.148 () {34 vars in 546 bytes} [Mon Aug 17 05:12:12 2020] GET /shop/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 229/229] 216.235.241.118 () {34 vars in 554 bytes} [Mon Aug 17 05:13:44 2020] GET /newsite/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 230/230] 184.168.46.186 () {34 vars in 543 bytes} [Mon Aug 17 05:14:49 2020] GET /v2/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 231/231] 173.201.196.170 () {34 vars in 554 bytes} [Mon Aug 17 05:15:55 2020] GET /oldsite/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 232/232] 198.71.238.21 () {34 vars in 546 bytes} [Mon Aug 17 05:16:41 2020] GET /2018/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 233/233] 97.74.24.132 () {34 vars in 545 bytes} [Mon Aug 17 05:17:23 2020] GET /2019/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 234/234] 198.71.238.23 () {34 vars in 542 bytes} [Mon Aug 17 05:17:43 2020] GET /v1/wp-includes/wlwmanifest.xml => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 235/235] 81.31.147.141 () {34 vars in 540 bytes} [Mon Aug 17 05:17:59 2020] GET /1/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 236/236] 184.168.46.121 () {34 vars in 549 bytes} [Mon Aug 17 05:18:14 2020] GET /store/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 237/237] 160.153.153.29 () {34 vars in 545 bytes} [Mon Aug 17 05:18:30 2020] GET /wp2/wp-includes/wlwmanifest.xml => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 238/238] 66.249.93.26 () {38 vars in 611 bytes} [Mon Aug 17 05:31:52 2020] GET / => generated 21084 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 239/239] 66.249.93.26 () {38 vars in 577 bytes} [Mon Aug 17 06:12:08 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 240/240] 54.36.148.132 () {34 vars in 457 bytes} [Mon Aug 17 07:06:07 2020] GET /robots.txt => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 241/241] 54.36.149.93 () {34 vars in 436 bytes} [Mon Aug 17 07:06:09 2020] GET / => generated 21084 bytes in 20 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 242/242] 66.249.93.25 () {38 vars in 604 bytes} [Mon Aug 17 12:03:00 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 243/243] 54.36.148.45 () {34 vars in 436 bytes} [Tue Aug 18 00:19:19 2020] GET / => generated 21084 bytes in 23 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 244/244] 66.249.93.26 () {38 vars in 578 bytes} [Tue Aug 18 05:18:02 2020] GET /favicon.ico => generated 179 bytes in 13 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 245/245] 66.249.93.25 () {38 vars in 611 bytes} [Tue Aug 18 07:02:15 2020] GET / => generated 21084 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 246/246] 66.249.93.26 () {38 vars in 577 bytes} [Tue Aug 18 07:02:16 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 247/247] 54.36.148.21 () {34 vars in 456 bytes} [Tue Aug 18 20:19:05 2020] GET /robots.txt => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 248/248] 54.36.148.238 () {34 vars in 437 bytes} [Tue Aug 18 20:19:06 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 249/249] 66.249.93.25 () {38 vars in 578 bytes} [Wed Aug 19 06:14:47 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 250/250] 66.249.93.25 () {38 vars in 577 bytes} [Wed Aug 19 07:32:09 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 251/251] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:21:46 2020] GET / => generated 21084 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 252/252] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:21:47 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 253/253] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:22:00 2020] GET / => generated 21084 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 254/254] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:22:02 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 255/255] 41.80.180.232 () {42 vars in 762 bytes} [Wed Aug 19 10:22:07 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 256/256] 41.80.180.232 () {44 vars in 900 bytes} [Wed Aug 19 10:28:06 2020] GET /pages/about/ => generated 7188 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 257/257] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 10:28:07 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 258/258] 41.80.180.232 () {42 vars in 797 bytes} [Wed Aug 19 10:28:07 2020] GET /pages/about/css/bootstrap.min.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 48423|app: 0|req: 259/259] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 10:28:08 2020] GET /pages/about/js/bootstrap.min.js => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+Wed Aug 19 10:35:36 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Aug 19 10:35:39 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x561d7fa5a660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x561d7fa5a660 pid: 85171 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 85171)
+spawned uWSGI worker 1 (pid: 85173, cores: 1)
+[pid: 85173|app: 0|req: 1/1] 41.80.180.232 () {46 vars in 880 bytes} [Wed Aug 19 10:36:39 2020] GET / => generated 143 bytes in 790 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 85173|app: 0|req: 2/2] 41.80.180.232 () {46 vars in 815 bytes} [Wed Aug 19 10:36:41 2020] GET /favicon.ico => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 3/3] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:37:05 2020] GET / => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 4/4] 41.80.180.232 () {42 vars in 762 bytes} [Wed Aug 19 10:37:06 2020] GET /favicon.ico => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 5/5] 41.80.180.232 () {44 vars in 858 bytes} [Wed Aug 19 10:41:37 2020] GET / => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 6/6] 41.80.180.232 () {46 vars in 815 bytes} [Wed Aug 19 10:41:38 2020] GET /favicon.ico => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 7/7] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:42:31 2020] GET / => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+[pid: 85173|app: 0|req: 8/8] 41.80.180.232 () {42 vars in 762 bytes} [Wed Aug 19 10:42:32 2020] GET /favicon.ico => generated 143 bytes in 12 msecs (HTTP/1.1 400) 3 headers in 116 bytes (1 switches on core 0)
+Wed Aug 19 10:43:58 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Aug 19 10:44:01 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x5576a057e660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5576a057e660 pid: 85209 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 85209)
+spawned uWSGI worker 1 (pid: 85211, cores: 1)
+[pid: 85211|app: 0|req: 1/1] 41.80.180.232 () {44 vars in 858 bytes} [Wed Aug 19 10:44:12 2020] GET / => generated 20841 bytes in 597 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 85211|app: 0|req: 2/2] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:44:13 2020] GET /jumbotron.css => generated 179 bytes in 12 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 3/3] 41.80.180.232 () {46 vars in 815 bytes} [Wed Aug 19 10:44:14 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 4/4] 41.80.180.232 () {44 vars in 884 bytes} [Wed Aug 19 10:44:50 2020] GET /pages/about/ => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 5/5] 41.80.180.232 () {42 vars in 837 bytes} [Wed Aug 19 10:45:05 2020] GET /admin => generated 0 bytes in 1 msecs (HTTP/1.1 301) 5 headers in 175 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 6/6] 41.80.180.232 () {42 vars in 839 bytes} [Wed Aug 19 10:45:06 2020] GET /admin/ => generated 145 bytes in 44 msecs (HTTP/1.1 500) 6 headers in 184 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 7/7] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:45:26 2020] GET / => generated 20841 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 8/8] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:45:27 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85211|app: 0|req: 9/9] 41.80.180.232 () {44 vars in 872 bytes} [Wed Aug 19 10:45:32 2020] GET /admin/ => generated 145 bytes in 25 msecs (HTTP/1.1 500) 6 headers in 184 bytes (1 switches on core 0)
+Wed Aug 19 10:53:49 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Aug 19 10:53:52 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x564d87b08660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x564d87b08660 pid: 85246 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 85246)
+spawned uWSGI worker 1 (pid: 85248, cores: 1)
+[pid: 85248|app: 0|req: 1/1] 41.80.180.232 () {48 vars in 925 bytes} [Wed Aug 19 10:54:33 2020] GET /admin/ => generated 0 bytes in 588 msecs (HTTP/1.1 302) 10 headers in 430 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 85248|app: 0|req: 2/2] 41.80.180.232 () {48 vars in 918 bytes} [Wed Aug 19 10:54:34 2020] GET /admin/login/?next=/admin/ => generated 2194 bytes in 48 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 3/3] 41.80.180.232 () {42 vars in 743 bytes} [Wed Aug 19 10:54:39 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 4/4] 41.80.180.232 () {52 vars in 1069 bytes} [Wed Aug 19 10:54:46 2020] POST /admin/login/?next=/admin/ => generated 0 bytes in 342 msecs (HTTP/1.1 302) 11 headers in 625 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 5/5] 41.80.180.232 () {46 vars in 928 bytes} [Wed Aug 19 10:54:47 2020] GET /admin/ => generated 10373 bytes in 31 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 6/6] 41.80.180.232 () {44 vars in 934 bytes} [Wed Aug 19 10:54:56 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13640 bytes in 57 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 7/7] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 10:54:58 2020] GET /admin/jsi18n/ => generated 3187 bytes in 8 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 8/8] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 10:55:27 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 19 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 9/9] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 10:55:27 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 10/10] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 10:55:28 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13891 bytes in 31 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 11/11] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 10:55:28 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 12/12] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:55:55 2020] GET / => generated 20841 bytes in 22 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 13/13] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:55:55 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 14/14] 41.80.180.232 () {44 vars in 884 bytes} [Wed Aug 19 10:56:01 2020] GET /pages/about/ => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 15/15] 41.80.180.232 () {44 vars in 906 bytes} [Wed Aug 19 10:56:54 2020] GET /admin/ => generated 10411 bytes in 27 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 16/16] 41.80.180.232 () {44 vars in 900 bytes} [Wed Aug 19 10:56:59 2020] GET /admin/sites/site/ => generated 9985 bytes in 41 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 17/17] 41.80.180.232 () {42 vars in 747 bytes} [Wed Aug 19 10:57:00 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 18/18] 41.80.180.232 () {44 vars in 929 bytes} [Wed Aug 19 10:57:05 2020] GET /admin/sites/site/7/change/ => generated 9046 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 19/19] 41.80.180.232 () {42 vars in 756 bytes} [Wed Aug 19 10:57:06 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 20/20] 41.80.180.232 () {52 vars in 1117 bytes} [Wed Aug 19 10:57:19 2020] POST /admin/sites/site/7/change/ => generated 0 bytes in 12 msecs (HTTP/1.1 302) 10 headers in 624 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 21/21] 41.80.180.232 () {46 vars in 1216 bytes} [Wed Aug 19 10:57:20 2020] GET /admin/sites/site/7/change/ => generated 9294 bytes in 21 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 22/22] 41.80.180.232 () {42 vars in 756 bytes} [Wed Aug 19 10:57:20 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 23/23] 41.80.180.232 () {44 vars in 898 bytes} [Wed Aug 19 10:57:24 2020] GET /admin/ => generated 10421 bytes in 24 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 24/24] 41.80.180.232 () {44 vars in 916 bytes} [Wed Aug 19 10:57:30 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 25/25] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 10:57:30 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 26/26] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 10:57:34 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13647 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 27/27] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 10:57:35 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 28/28] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 10:57:42 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 17 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 29/29] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 10:57:44 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13898 bytes in 33 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 30/30] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 10:57:44 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 31/31] 41.80.180.232 () {46 vars in 915 bytes} [Wed Aug 19 10:57:48 2020] GET /pages/about/ => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 32/32] 41.80.180.232 () {42 vars in 849 bytes} [Wed Aug 19 10:58:02 2020] GET /pages/about => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 33/33] 41.80.180.232 () {44 vars in 926 bytes} [Wed Aug 19 10:58:48 2020] GET /admin/flatpages/ => generated 2778 bytes in 14 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 34/34] 41.80.180.232 () {44 vars in 926 bytes} [Wed Aug 19 10:58:53 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 35/35] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 10:58:53 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 36/36] 41.80.180.232 () {42 vars in 851 bytes} [Wed Aug 19 10:59:07 2020] GET /pages/about/ => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 37/37] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 10:59:22 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13647 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 38/38] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 10:59:24 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 39/39] 41.80.180.232 () {44 vars in 920 bytes} [Wed Aug 19 10:59:30 2020] GET /admin/r/11/1/ => generated 0 bytes in 9 msecs (HTTP/1.1 302) 9 headers in 341 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 40/40] 41.80.180.232 () {42 vars in 827 bytes} [Wed Aug 19 10:59:52 2020] GET / => generated 20841 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 41/41] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 10:59:53 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 42/42] 41.80.180.232 () {44 vars in 858 bytes} [Wed Aug 19 11:00:00 2020] GET / => generated 20841 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 43/43] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 11:00:01 2020] GET /jumbotron.css => generated 179 bytes in 20 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 44/44] 41.80.180.232 () {42 vars in 851 bytes} [Wed Aug 19 11:00:40 2020] GET /pages/about/ => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 45/45] 41.80.180.232 () {44 vars in 892 bytes} [Wed Aug 19 11:02:48 2020] GET /pages/call_book/ => generated 7634 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 46/46] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:02:48 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 47/47] 41.80.180.232 () {44 vars in 896 bytes} [Wed Aug 19 11:04:19 2020] GET /pages/faqs => generated 0 bytes in 5 msecs (HTTP/1.1 301) 6 headers in 203 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 48/48] 41.80.180.232 () {44 vars in 898 bytes} [Wed Aug 19 11:04:19 2020] GET /pages/faqs/ => generated 8890 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 49/49] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 11:04:19 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 50/50] 41.80.180.232 () {44 vars in 895 bytes} [Wed Aug 19 11:04:27 2020] GET /pages/about/ => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 51/51] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:04:41 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 52/52] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:04:41 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 53/53] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:04:43 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13454 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 54/54] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:04:44 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 55/55] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:04:56 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 23 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 56/56] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:04:56 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 57/57] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:04:58 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13647 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 58/58] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:04:58 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 59/59] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:05:02 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 24 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 60/60] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 11:05:02 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13898 bytes in 31 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 61/61] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:05:03 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 62/62] 41.80.180.232 () {46 vars in 926 bytes} [Wed Aug 19 11:05:06 2020] GET /pages/about/ => generated 7789 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 63/63] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:05:07 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 64/64] 41.80.180.232 () {44 vars in 904 bytes} [Wed Aug 19 11:10:41 2020] GET /pages/call_book/ => generated 7634 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 65/65] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:10:42 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 66/66] 41.80.180.232 () {44 vars in 900 bytes} [Wed Aug 19 11:10:47 2020] GET /pages/about/ => generated 7789 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 67/67] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:10:47 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 68/68] 41.80.180.232 () {44 vars in 904 bytes} [Wed Aug 19 11:10:53 2020] GET /pages/call_book/ => generated 7634 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 69/69] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:10:53 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 70/70] 41.80.180.232 () {44 vars in 898 bytes} [Wed Aug 19 11:11:13 2020] GET /pages/faqs/ => generated 8890 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 71/71] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 11:11:14 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 72/72] 41.80.180.232 () {44 vars in 926 bytes} [Wed Aug 19 11:11:49 2020] GET /admin/flatpages/ => generated 2778 bytes in 10 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 73/73] 41.80.180.232 () {44 vars in 926 bytes} [Wed Aug 19 11:12:00 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 23 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 74/74] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:12:01 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 75/75] 41.80.180.232 () {44 vars in 895 bytes} [Wed Aug 19 11:12:33 2020] GET /pages/about/ => generated 7789 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 76/76] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:12:33 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+Wed Aug 19 11:13:46 2020 - SIGPIPE: writing to a closed pipe/socket/fd (probably the client disconnected) on request /admin/ (ip 41.80.180.232) !!!
+Wed Aug 19 11:13:46 2020 - uwsgi_response_writev_headers_and_body_do(): Broken pipe [core/writer.c line 306] during GET /admin/ (41.80.180.232)
+OSError: write error
+[pid: 85248|app: 0|req: 77/77] 41.80.180.232 () {44 vars in 897 bytes} [Wed Aug 19 11:13:46 2020] GET /admin/ => generated 0 bytes in 24 msecs (HTTP/1.1 200) 8 headers in 0 bytes (0 switches on core 0)
+[pid: 85248|app: 0|req: 78/78] 41.80.180.232 () {44 vars in 897 bytes} [Wed Aug 19 11:13:46 2020] GET /admin/ => generated 10426 bytes in 21 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 79/79] 41.80.180.232 () {44 vars in 936 bytes} [Wed Aug 19 11:13:59 2020] GET /admin/django_summernote/attachment/ => generated 11151 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 80/80] 41.80.180.232 () {44 vars in 936 bytes} [Wed Aug 19 11:13:59 2020] GET /admin/django_summernote/attachment/ => generated 11151 bytes in 24 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 81/81] 41.80.180.232 () {42 vars in 765 bytes} [Wed Aug 19 11:14:00 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 82/82] 41.80.180.232 () {44 vars in 973 bytes} [Wed Aug 19 11:14:03 2020] GET /admin/django_summernote/attachment/add/ => generated 8951 bytes in 24 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 83/83] 41.80.180.232 () {42 vars in 769 bytes} [Wed Aug 19 11:14:03 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 84/84] 41.80.180.232 () {52 vars in 1230 bytes} [Wed Aug 19 11:14:33 2020] POST /admin/django_summernote/attachment/add/ => generated 0 bytes in 14 msecs (HTTP/1.1 302) 10 headers in 652 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 85/85] 41.80.180.232 () {46 vars in 1275 bytes} [Wed Aug 19 11:14:34 2020] GET /admin/django_summernote/attachment/5/change/ => generated 9614 bytes in 22 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 86/86] 41.80.180.232 () {42 vars in 774 bytes} [Wed Aug 19 11:14:34 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 87/87] 41.80.180.232 () {42 vars in 877 bytes} [Wed Aug 19 11:15:23 2020] GET /admin/flatpages/flatpage/ => generated 11148 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 88/88] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:15:23 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 89/89] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:15:26 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13647 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 90/90] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:15:27 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 91/91] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:16:43 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 16 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 92/92] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 11:16:44 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14094 bytes in 26 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 93/93] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:16:44 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 94/94] 41.80.180.232 () {44 vars in 900 bytes} [Wed Aug 19 11:16:54 2020] GET /pages/about/ => generated 7939 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 95/95] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:16:55 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 96/96] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:17:26 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 97/97] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 11:17:27 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14094 bytes in 83 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 98/98] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:17:27 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 99/99] 41.80.180.232 () {46 vars in 931 bytes} [Wed Aug 19 11:17:30 2020] GET /pages/about/ => generated 7939 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 100/100] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:17:30 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 101/101] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:17:56 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 19 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 102/102] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 11:17:56 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14094 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 103/103] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:17:57 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 104/104] 41.80.180.232 () {46 vars in 931 bytes} [Wed Aug 19 11:18:03 2020] GET /pages/about/ => generated 7939 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 105/105] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:18:03 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 106/106] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:18:46 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 19 msecs (HTTP/1.1 302) 10 headers in 649 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 107/107] 41.80.180.232 () {46 vars in 1257 bytes} [Wed Aug 19 11:18:47 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14123 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 108/108] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:18:47 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 109/109] 41.80.180.232 () {46 vars in 931 bytes} [Wed Aug 19 11:18:54 2020] GET /pages/about/ => generated 7958 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 110/110] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:18:54 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 111/111] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:19:35 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 22 msecs (HTTP/1.1 302) 10 headers in 672 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 112/112] 41.80.180.232 () {46 vars in 1280 bytes} [Wed Aug 19 11:19:35 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14192 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 113/113] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:19:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 114/114] 41.80.180.232 () {46 vars in 931 bytes} [Wed Aug 19 11:19:41 2020] GET /pages/about/ => generated 7981 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 115/115] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:19:42 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 116/116] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:21:04 2020] POST /admin/flatpages/flatpage/1/change/ => generated 0 bytes in 20 msecs (HTTP/1.1 302) 10 headers in 672 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 117/117] 41.80.180.232 () {46 vars in 1280 bytes} [Wed Aug 19 11:21:04 2020] GET /admin/flatpages/flatpage/1/change/ => generated 14226 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 118/118] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:21:05 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 119/119] 41.80.180.232 () {46 vars in 931 bytes} [Wed Aug 19 11:21:27 2020] GET /pages/about/ => generated 7991 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 120/120] 41.80.180.232 () {42 vars in 781 bytes} [Wed Aug 19 11:21:28 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 121/121] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:22:35 2020] GET /admin/flatpages/flatpage/ => generated 11171 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 122/122] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:22:35 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 123/123] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:22:37 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13454 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 124/124] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:22:38 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 125/125] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:24:08 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 20 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 126/126] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 11:24:08 2020] GET /admin/flatpages/flatpage/2/change/ => generated 16482 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 127/127] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:24:09 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 128/128] 41.80.180.232 () {44 vars in 904 bytes} [Wed Aug 19 11:24:19 2020] GET /pages/call_book/ => generated 10416 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 129/129] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:24:20 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 130/130] 41.80.180.232 () {52 vars in 1145 bytes} [Wed Aug 19 11:27:22 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 21 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 131/131] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 11:27:22 2020] GET /admin/flatpages/flatpage/2/change/ => generated 40073 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 132/132] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:27:23 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 133/133] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:27:29 2020] GET /pages/call_book/ => generated 25737 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 134/134] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:27:30 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 135/135] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:36:33 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 136/136] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:36:33 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13708 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 137/137] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:36:33 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 138/138] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:36:37 2020] GET /pages/call_book/ => generated 7353 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 139/139] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:36:37 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 140/140] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:37:30 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 20 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 141/141] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:37:30 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13329 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 142/142] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:37:31 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 143/143] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:37:45 2020] GET /pages/call_book/ => generated 7110 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 144/144] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:37:45 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 145/145] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:38:36 2020] GET /admin/flatpages/flatpage/ => generated 11175 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 146/146] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:38:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 147/147] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:38:38 2020] GET /admin/flatpages/flatpage/1/change/ => generated 13952 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 148/148] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:38:39 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 149/149] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:38:47 2020] GET /admin/flatpages/flatpage/ => generated 11175 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 150/150] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:38:47 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 151/151] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:38:50 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13070 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 152/152] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:38:50 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 153/153] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:39:09 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 154/154] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:39:09 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13556 bytes in 33 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 155/155] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:39:10 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 156/156] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:39:17 2020] GET /pages/call_book/ => generated 7281 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 157/157] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:39:18 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 158/158] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:39:33 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 19 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 159/159] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:39:34 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13550 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 160/160] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:39:34 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 161/161] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:39:49 2020] GET /pages/call_book/ => generated 7275 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 162/162] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:39:51 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 163/163] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:43:00 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 164/164] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:43:00 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13548 bytes in 32 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 165/165] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:43:00 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 166/166] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:43:05 2020] GET /pages/call_book/ => generated 7273 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 167/167] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:43:05 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 168/168] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:43:30 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 20 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 169/169] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:43:31 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13560 bytes in 27 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 170/170] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:43:31 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 171/171] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:43:34 2020] GET /pages/call_book/ => generated 7285 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 172/172] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:43:34 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 173/173] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:44:05 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 24 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 174/174] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:44:06 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13523 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 175/175] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:44:06 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 176/176] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:44:11 2020] GET /pages/call_book/ => generated 7258 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 177/177] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:44:11 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 178/178] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:44:27 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 29 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 179/179] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:44:27 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13523 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 180/180] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:44:27 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 181/181] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:44:30 2020] GET /pages/call_book/ => generated 7258 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 182/182] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:44:30 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 183/183] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:44:52 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 24 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 184/184] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:44:52 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13523 bytes in 33 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 185/185] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:44:53 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 186/186] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:44:58 2020] GET /pages/call_book/ => generated 7258 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 187/187] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:44:59 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 188/188] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:45:22 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 16 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 189/189] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:45:23 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13523 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 190/190] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:45:23 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 191/191] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:45:28 2020] GET /pages/call_book/ => generated 7258 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 192/192] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:45:28 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 193/193] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 11:46:40 2020] POST /admin/flatpages/flatpage/2/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 657 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 194/194] 41.80.180.232 () {46 vars in 1265 bytes} [Wed Aug 19 11:46:41 2020] GET /admin/flatpages/flatpage/2/change/ => generated 13579 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 195/195] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:46:42 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 196/196] 41.80.180.232 () {46 vars in 935 bytes} [Wed Aug 19 11:46:44 2020] GET /pages/call_book/ => generated 7304 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 197/197] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 11:46:45 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 198/198] 41.80.180.232 () {44 vars in 898 bytes} [Wed Aug 19 11:47:15 2020] GET /pages/faqs/ => generated 8890 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 199/199] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 11:47:16 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 200/200] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 11:49:15 2020] GET /admin/flatpages/flatpage/ => generated 11175 bytes in 23 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 201/201] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 11:49:15 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 202/202] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 11:49:17 2020] GET /admin/flatpages/flatpage/4/change/ => generated 14691 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 203/203] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 11:49:17 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 204/204] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 13:26:14 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 205/205] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 13:26:15 2020] GET /admin/flatpages/flatpage/4/change/ => generated 15196 bytes in 32 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 206/206] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 13:26:15 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 207/207] 41.80.180.232 () {46 vars in 929 bytes} [Wed Aug 19 13:26:22 2020] GET /pages/faqs/ => generated 9084 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 208/208] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 13:26:22 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 209/209] 41.80.180.232 () {52 vars in 1143 bytes} [Wed Aug 19 13:28:37 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 22 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 210/210] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 13:28:37 2020] GET /admin/flatpages/flatpage/4/change/ => generated 15464 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 211/211] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 13:28:38 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 212/212] 41.80.180.232 () {46 vars in 929 bytes} [Wed Aug 19 13:28:46 2020] GET /pages/faqs/ => generated 9182 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 213/213] 41.80.180.232 () {42 vars in 778 bytes} [Wed Aug 19 13:28:47 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 214/214] 41.80.180.232 () {44 vars in 837 bytes} [Wed Aug 19 13:53:24 2020] GET / => generated 20841 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 215/215] 41.80.180.232 () {44 vars in 794 bytes} [Wed Aug 19 13:53:25 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 216/216] 41.80.180.232 () {44 vars in 811 bytes} [Wed Aug 19 13:53:36 2020] GET /favicon.ico => generated 179 bytes in 14 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 217/217] 41.80.180.232 () {44 vars in 861 bytes} [Wed Aug 19 13:54:27 2020] GET /pages/about/ => generated 7991 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 218/218] 41.80.180.232 () {44 vars in 830 bytes} [Wed Aug 19 13:54:29 2020] GET /pages/about/jumbotron.css => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 219/219] 41.80.180.232 () {44 vars in 944 bytes} [Wed Aug 19 14:06:35 2020] GET /admin/flatpages/flatpage/ => generated 11175 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 220/220] 41.80.180.232 () {42 vars in 755 bytes} [Wed Aug 19 14:06:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 221/221] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 14:06:41 2020] GET /admin/flatpages/flatpage/3/change/ => generated 21331 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 222/222] 41.80.180.232 () {44 vars in 953 bytes} [Wed Aug 19 14:06:42 2020] GET /admin/flatpages/flatpage/3/change/ => generated 21331 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 223/223] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 14:06:44 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 224/224] 41.80.180.232 () {44 vars in 920 bytes} [Wed Aug 19 14:07:08 2020] GET /admin/r/11/3/ => generated 0 bytes in 10 msecs (HTTP/1.1 302) 9 headers in 340 bytes (2 switches on core 0)
+[pid: 85248|app: 0|req: 225/225] 41.80.180.232 () {52 vars in 1145 bytes} [Wed Aug 19 14:07:23 2020] POST /admin/flatpages/flatpage/3/change/ => generated 0 bytes in 19 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 226/226] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 14:07:23 2020] GET /admin/flatpages/flatpage/3/change/ => generated 21586 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 227/227] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 14:07:24 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 228/228] 41.80.180.232 () {44 vars in 920 bytes} [Wed Aug 19 14:07:33 2020] GET /admin/r/11/3/ => generated 0 bytes in 8 msecs (HTTP/1.1 302) 9 headers in 340 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 229/229] 41.80.180.232 () {42 vars in 859 bytes} [Wed Aug 19 14:07:46 2020] GET /pages/licencing/ => generated 15491 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 230/230] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 14:07:49 2020] GET /pages/licencing/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 231/231] 41.80.180.232 () {44 vars in 876 bytes} [Wed Aug 19 14:11:49 2020] GET / => generated 20841 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 232/232] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 14:11:50 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 233/233] 41.80.180.232 () {48 vars in 929 bytes} [Wed Aug 19 14:11:58 2020] GET / => generated 20841 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 234/234] 41.80.180.232 () {46 vars in 798 bytes} [Wed Aug 19 14:11:59 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 85248|app: 0|req: 235/235] 41.80.180.232 () {42 vars in 762 bytes} [Wed Aug 19 14:12:03 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+Wed Aug 19 14:12:48 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Wed Aug 19 14:12:51 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x56445eedc660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56445eedc660 pid: 86369 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 86369)
+spawned uWSGI worker 1 (pid: 86371, cores: 1)
+[pid: 86371|app: 0|req: 1/1] 41.80.180.232 () {46 vars in 907 bytes} [Wed Aug 19 14:14:22 2020] GET / => generated 20923 bytes in 583 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 86371|app: 0|req: 2/2] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 14:14:24 2020] GET /jumbotron.css => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 3/3] 41.80.180.232 () {44 vars in 890 bytes} [Wed Aug 19 14:14:28 2020] GET /pages/licencing => generated 0 bytes in 6 msecs (HTTP/1.1 301) 6 headers in 208 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 4/4] 41.80.180.232 () {44 vars in 892 bytes} [Wed Aug 19 14:14:29 2020] GET /pages/licencing/ => generated 15573 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 5/5] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 14:14:30 2020] GET /pages/licencing/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 6/6] 41.80.180.232 () {52 vars in 1145 bytes} [Wed Aug 19 14:38:59 2020] POST /admin/flatpages/flatpage/3/change/ => generated 0 bytes in 26 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 7/7] 41.80.180.232 () {46 vars in 1261 bytes} [Wed Aug 19 14:38:59 2020] GET /admin/flatpages/flatpage/3/change/ => generated 22447 bytes in 91 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 8/8] 41.80.180.232 () {42 vars in 764 bytes} [Wed Aug 19 14:39:01 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 9/9] 41.80.180.232 () {46 vars in 923 bytes} [Wed Aug 19 14:39:10 2020] GET /pages/licencing/ => generated 15272 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 10/10] 41.80.180.232 () {42 vars in 793 bytes} [Wed Aug 19 14:39:11 2020] GET /pages/licencing/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 11/11] 41.80.180.232 () {44 vars in 876 bytes} [Wed Aug 19 14:39:51 2020] GET / => generated 20923 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 12/12] 41.80.180.232 () {42 vars in 745 bytes} [Wed Aug 19 14:39:51 2020] GET /jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 13/13] 66.249.93.26 () {38 vars in 611 bytes} [Wed Aug 19 17:23:04 2020] GET / => generated 20923 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 14/14] 54.36.148.215 () {34 vars in 437 bytes} [Wed Aug 19 18:04:56 2020] GET / => generated 20923 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 15/15] 62.165.226.9 () {38 vars in 603 bytes} [Wed Aug 19 18:35:01 2020] POST /xmlrpc.php => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 16/16] 62.165.226.9 () {38 vars in 609 bytes} [Wed Aug 19 18:35:01 2020] POST /wp/xmlrpc.php => generated 179 bytes in 11 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 17/17] 62.165.226.9 () {38 vars in 625 bytes} [Wed Aug 19 18:35:01 2020] POST /wordpress/xmlrpc.php => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 18/18] 62.165.226.9 () {38 vars in 615 bytes} [Wed Aug 19 18:35:02 2020] POST /blog/xmlrpc.php => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 19/19] 62.165.226.9 () {34 vars in 513 bytes} [Wed Aug 19 18:35:05 2020] GET /phpMyAdmin/index.php => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 20/20] 62.165.226.9 () {34 vars in 499 bytes} [Wed Aug 19 18:35:05 2020] GET /pma/index.php => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 21/21] 62.165.226.9 () {34 vars in 523 bytes} [Wed Aug 19 18:35:06 2020] GET /phpmyadmin/index.php => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 22/22] 41.80.180.232 () {46 vars in 882 bytes} [Wed Aug 19 19:37:09 2020] GET / => generated 20923 bytes in 20 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 23/23] 41.80.180.232 () {44 vars in 794 bytes} [Wed Aug 19 19:37:09 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 24/24] 197.136.63.5 () {48 vars in 1006 bytes} [Thu Aug 20 06:20:10 2020] GET /admin/django_summernote/attachment/ => generated 10264 bytes in 55 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 25/25] 197.136.63.5 () {44 vars in 794 bytes} [Thu Aug 20 06:20:12 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 26/26] 197.136.63.5 () {46 vars in 974 bytes} [Thu Aug 20 06:20:17 2020] GET /admin/flatpages/flatpage/ => generated 9820 bytes in 38 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 27/27] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:20:17 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 28/28] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:20:20 2020] GET /admin/flatpages/flatpage/1/change/ => generated 12597 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 29/29] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:20:20 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 30/30] 197.136.63.5 () {46 vars in 894 bytes} [Thu Aug 20 06:22:22 2020] GET / => generated 20923 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 31/31] 197.136.63.5 () {44 vars in 774 bytes} [Thu Aug 20 06:22:23 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 32/32] 197.136.63.5 () {46 vars in 909 bytes} [Thu Aug 20 06:22:31 2020] GET /pages/faqs => generated 0 bytes in 6 msecs (HTTP/1.1 301) 6 headers in 203 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 33/33] 197.136.63.5 () {46 vars in 911 bytes} [Thu Aug 20 06:22:31 2020] GET /pages/faqs/ => generated 9264 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 34/34] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 06:22:32 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 35/35] 197.136.63.5 () {46 vars in 930 bytes} [Thu Aug 20 06:22:47 2020] GET /pages/licencing => generated 0 bytes in 6 msecs (HTTP/1.1 301) 6 headers in 208 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 36/36] 197.136.63.5 () {46 vars in 932 bytes} [Thu Aug 20 06:22:47 2020] GET /pages/licencing/ => generated 15272 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 37/37] 197.136.63.5 () {44 vars in 822 bytes} [Thu Aug 20 06:22:48 2020] GET /pages/licencing/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 38/38] 197.136.63.5 () {46 vars in 925 bytes} [Thu Aug 20 06:23:01 2020] GET /downloads/ => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 39/39] 197.136.63.5 () {46 vars in 917 bytes} [Thu Aug 20 06:23:13 2020] GET /admin/ => generated 8686 bytes in 28 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 40/40] 197.136.63.5 () {46 vars in 905 bytes} [Thu Aug 20 06:23:33 2020] GET / => generated 20923 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 41/41] 197.136.63.5 () {44 vars in 774 bytes} [Thu Aug 20 06:23:33 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 42/42] 197.136.63.5 () {46 vars in 901 bytes} [Thu Aug 20 06:23:59 2020] GET /about/ => generated 8073 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 43/43] 197.136.63.5 () {44 vars in 792 bytes} [Thu Aug 20 06:23:59 2020] GET /about/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 44/44] 197.136.63.5 () {46 vars in 973 bytes} [Thu Aug 20 06:24:14 2020] GET /admin/flatpages/flatpage/ => generated 9820 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 45/45] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:24:14 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 46/46] 197.136.63.5 () {46 vars in 927 bytes} [Thu Aug 20 06:24:25 2020] GET /pages/call_book/ => generated 7386 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 47/47] 197.136.63.5 () {44 vars in 822 bytes} [Thu Aug 20 06:24:26 2020] GET /pages/call_book/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 48/48] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:24:36 2020] GET /admin/flatpages/flatpage/2/change/ => generated 11965 bytes in 32 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 49/49] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:24:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 50/50] 197.136.63.5 () {46 vars in 905 bytes} [Thu Aug 20 06:25:28 2020] GET / => generated 20923 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 51/51] 197.136.63.5 () {44 vars in 774 bytes} [Thu Aug 20 06:25:28 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 52/52] 197.136.63.5 () {46 vars in 955 bytes} [Thu Aug 20 06:25:37 2020] GET /admin/blog/post/ => generated 7993 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 53/53] 197.136.63.5 () {44 vars in 775 bytes} [Thu Aug 20 06:25:37 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 54/54] 197.136.63.5 () {46 vars in 955 bytes} [Thu Aug 20 06:25:43 2020] GET /admin/flatpages/flatpage/ => generated 9820 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 55/55] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:25:43 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 56/56] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:25:46 2020] GET /admin/flatpages/flatpage/1/change/ => generated 12597 bytes in 32 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 57/57] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:25:46 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 58/58] 197.136.63.5 () {46 vars in 993 bytes} [Thu Aug 20 06:35:27 2020] GET /admin/django_summernote/attachment/ => generated 10264 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 59/59] 197.136.63.5 () {44 vars in 794 bytes} [Thu Aug 20 06:35:27 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 60/60] 197.136.63.5 () {46 vars in 993 bytes} [Thu Aug 20 06:35:38 2020] GET /admin/django_summernote/attachment/ => generated 10264 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 61/61] 197.136.63.5 () {46 vars in 909 bytes} [Thu Aug 20 06:35:44 2020] GET /downloads/ => generated 179 bytes in 4 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 62/62] 197.136.63.5 () {46 vars in 958 bytes} [Thu Aug 20 06:35:52 2020] GET /admin/sites/site/ => generated 8637 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 63/63] 197.136.63.5 () {44 vars in 776 bytes} [Thu Aug 20 06:35:52 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 64/64] 197.136.63.5 () {46 vars in 958 bytes} [Thu Aug 20 06:35:56 2020] GET /admin/sites/site/7/change/ => generated 7705 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 65/65] 197.136.63.5 () {44 vars in 785 bytes} [Thu Aug 20 06:35:56 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 66/66] 197.136.63.5 () {46 vars in 973 bytes} [Thu Aug 20 06:36:01 2020] GET /admin/ham_operators/operator/ => generated 9859 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 67/67] 197.136.63.5 () {44 vars in 788 bytes} [Thu Aug 20 06:36:01 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 68/68] 197.136.63.5 () {46 vars in 950 bytes} [Thu Aug 20 06:36:06 2020] GET /admin/blog/post/ => generated 7993 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 69/69] 197.136.63.5 () {44 vars in 775 bytes} [Thu Aug 20 06:36:06 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 70/70] 197.136.63.5 () {46 vars in 955 bytes} [Thu Aug 20 06:36:10 2020] GET /admin/blog/post/1/change/ => generated 11968 bytes in 35 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 71/71] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:36:10 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 72/72] 197.136.63.5 () {46 vars in 972 bytes} [Thu Aug 20 06:36:11 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 6 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 73/73] 197.136.63.5 () {46 vars in 950 bytes} [Thu Aug 20 06:36:16 2020] GET /admin/blog/post/ => generated 7993 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 74/74] 197.136.63.5 () {46 vars in 955 bytes} [Thu Aug 20 06:36:18 2020] GET /admin/blog/post/4/change/ => generated 20393 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 75/75] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:36:19 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 76/76] 197.136.63.5 () {46 vars in 972 bytes} [Thu Aug 20 06:36:19 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 77/77] 197.136.63.5 () {46 vars in 950 bytes} [Thu Aug 20 06:36:23 2020] GET /admin/blog/post/ => generated 7993 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 78/78] 197.136.63.5 () {46 vars in 975 bytes} [Thu Aug 20 06:36:32 2020] GET /admin/django_summernote/attachment/ => generated 10264 bytes in 28 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 79/79] 197.136.63.5 () {44 vars in 794 bytes} [Thu Aug 20 06:36:32 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 80/80] 197.136.63.5 () {46 vars in 974 bytes} [Thu Aug 20 06:36:35 2020] GET /admin/flatpages/flatpage/ => generated 9820 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 81/81] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:36:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 82/82] 197.136.63.5 () {46 vars in 911 bytes} [Thu Aug 20 06:36:49 2020] GET /pages/faqs/ => generated 9264 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 83/83] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 06:36:50 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 84/84] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:37:00 2020] GET /admin/flatpages/flatpage/4/change/ => generated 13854 bytes in 33 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 85/85] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:37:00 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 86/86] 197.136.63.5 () {54 vars in 1172 bytes} [Thu Aug 20 06:37:54 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 21 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 87/87] 197.136.63.5 () {48 vars in 1290 bytes} [Thu Aug 20 06:37:54 2020] GET /admin/flatpages/flatpage/4/change/ => generated 14111 bytes in 32 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 88/88] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:37:55 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 89/89] 197.136.63.5 () {48 vars in 942 bytes} [Thu Aug 20 06:38:00 2020] GET /pages/faqs/ => generated 9266 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 90/90] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 06:38:00 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 91/91] 197.136.63.5 () {46 vars in 973 bytes} [Thu Aug 20 06:38:54 2020] GET /admin/flatpages/flatpage/ => generated 9820 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 92/92] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:38:54 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 93/93] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:38:56 2020] GET /admin/flatpages/flatpage/4/change/ => generated 13856 bytes in 31 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 94/94] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:38:57 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 95/95] 197.136.63.5 () {54 vars in 1172 bytes} [Thu Aug 20 06:39:22 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 61 msecs (HTTP/1.1 302) 10 headers in 615 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 96/96] 197.136.63.5 () {48 vars in 1243 bytes} [Thu Aug 20 06:39:22 2020] GET /admin/flatpages/flatpage/ => generated 10046 bytes in 29 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 97/97] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 06:39:22 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 98/98] 197.136.63.5 () {48 vars in 942 bytes} [Thu Aug 20 06:39:27 2020] GET /pages/faqs/ => generated 9268 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 99/99] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 06:39:28 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 58 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 100/100] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 06:39:47 2020] GET /admin/flatpages/flatpage/4/change/ => generated 13858 bytes in 32 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 101/101] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:39:48 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 102/102] 197.136.63.5 () {54 vars in 1172 bytes} [Thu Aug 20 06:40:08 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 22 msecs (HTTP/1.1 302) 10 headers in 653 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 103/103] 197.136.63.5 () {48 vars in 1290 bytes} [Thu Aug 20 06:40:08 2020] GET /admin/flatpages/flatpage/4/change/ => generated 14111 bytes in 32 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 104/104] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 06:40:08 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 105/105] 197.136.63.5 () {48 vars in 942 bytes} [Thu Aug 20 06:40:24 2020] GET /pages/faqs/ => generated 9266 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 106/106] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 06:40:25 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 107/107] 66.249.93.24 () {38 vars in 577 bytes} [Thu Aug 20 08:41:58 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 108/108] 197.136.63.5 () {54 vars in 1172 bytes} [Thu Aug 20 08:56:15 2020] POST /admin/flatpages/flatpage/4/change/ => generated 0 bytes in 20 msecs (HTTP/1.1 302) 10 headers in 615 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 109/109] 197.136.63.5 () {48 vars in 1243 bytes} [Thu Aug 20 08:56:16 2020] GET /admin/flatpages/flatpage/ => generated 10046 bytes in 28 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 110/110] 197.136.63.5 () {44 vars in 784 bytes} [Thu Aug 20 08:56:17 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 111/111] 197.136.63.5 () {48 vars in 942 bytes} [Thu Aug 20 08:56:21 2020] GET /pages/faqs/ => generated 9270 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 112/112] 197.136.63.5 () {44 vars in 807 bytes} [Thu Aug 20 08:56:22 2020] GET /pages/faqs/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 113/113] 197.136.63.5 () {46 vars in 982 bytes} [Thu Aug 20 08:56:31 2020] GET /admin/flatpages/flatpage/4/change/ => generated 13860 bytes in 32 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 114/114] 197.136.63.5 () {44 vars in 793 bytes} [Thu Aug 20 08:56:31 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 115/115] 3.81.245.94 () {34 vars in 479 bytes} [Thu Aug 20 10:43:08 2020] GET / => generated 20923 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 116/116] 54.36.149.50 () {34 vars in 456 bytes} [Thu Aug 20 10:44:17 2020] GET /robots.txt => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 117/117] 54.36.148.238 () {34 vars in 437 bytes} [Thu Aug 20 10:44:18 2020] GET / => generated 20923 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 118/118] 66.249.93.24 () {38 vars in 578 bytes} [Thu Aug 20 14:26:30 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 119/119] 41.80.180.232 () {42 vars in 827 bytes} [Thu Aug 20 17:46:18 2020] GET / => generated 20923 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 120/120] 41.80.180.232 () {42 vars in 745 bytes} [Thu Aug 20 17:46:19 2020] GET /jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 121/121] 41.80.180.232 () {42 vars in 762 bytes} [Thu Aug 20 17:46:21 2020] GET /favicon.ico => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 122/122] 41.80.180.232 () {42 vars in 877 bytes} [Thu Aug 20 17:57:34 2020] GET /admin/flatpages/flatpage/ => generated 11175 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 123/123] 41.80.180.232 () {42 vars in 755 bytes} [Thu Aug 20 17:57:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 124/124] 41.80.180.232 () {44 vars in 943 bytes} [Thu Aug 20 17:57:42 2020] GET /admin/flatpages/flatpage/add/ => generated 11925 bytes in 25 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 125/125] 41.80.180.232 () {42 vars in 759 bytes} [Thu Aug 20 17:57:43 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 126/126] 41.80.180.232 () {52 vars in 1128 bytes} [Thu Aug 20 18:01:52 2020] POST /admin/flatpages/flatpage/add/ => generated 0 bytes in 18 msecs (HTTP/1.1 302) 10 headers in 652 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 127/127] 41.80.180.232 () {46 vars in 1255 bytes} [Thu Aug 20 18:01:53 2020] GET /admin/flatpages/flatpage/5/change/ => generated 14815 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 128/128] 41.80.180.232 () {42 vars in 764 bytes} [Thu Aug 20 18:01:53 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 129/129] 41.80.180.232 () {44 vars in 944 bytes} [Thu Aug 20 18:02:03 2020] GET /admin/flatpages/flatpage/ => generated 11426 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 130/130] 41.80.180.232 () {42 vars in 755 bytes} [Thu Aug 20 18:02:03 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 131/131] 41.80.180.232 () {44 vars in 943 bytes} [Thu Aug 20 18:02:10 2020] GET /admin/flatpages/flatpage/add/ => generated 11925 bytes in 24 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 132/132] 41.80.180.232 () {42 vars in 759 bytes} [Thu Aug 20 18:02:10 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 133/133] 41.80.180.232 () {52 vars in 1128 bytes} [Thu Aug 20 18:02:51 2020] POST /admin/flatpages/flatpage/add/ => generated 0 bytes in 15 msecs (HTTP/1.1 302) 10 headers in 658 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 134/134] 41.80.180.232 () {46 vars in 1261 bytes} [Thu Aug 20 18:02:52 2020] GET /admin/flatpages/flatpage/6/change/ => generated 14737 bytes in 31 msecs (HTTP/1.1 200) 10 headers in 560 bytes (1 switches on core 0)
+[pid: 86371|app: 0|req: 135/135] 41.80.180.232 () {42 vars in 764 bytes} [Thu Aug 20 18:02:52 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+Thu Aug 20 18:03:09 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Thu Aug 20 18:03:12 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x55f9f39db660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55f9f39db660 pid: 94555 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 94555)
+spawned uWSGI worker 1 (pid: 94557, cores: 1)
+[pid: 94557|app: 0|req: 1/1] 41.80.180.232 () {46 vars in 880 bytes} [Thu Aug 20 18:03:26 2020] GET / => generated 21143 bytes in 569 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 94557|app: 0|req: 2/2] 41.80.180.232 () {46 vars in 798 bytes} [Thu Aug 20 18:03:27 2020] GET /jumbotron.css => generated 179 bytes in 10 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 3/3] 41.80.180.232 () {46 vars in 815 bytes} [Thu Aug 20 18:03:34 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 4/4] 41.80.180.232 () {44 vars in 892 bytes} [Thu Aug 20 18:03:35 2020] GET /pages/contactus/ => generated 8484 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 5/5] 41.80.180.232 () {44 vars in 892 bytes} [Thu Aug 20 18:03:35 2020] GET /pages/contactus/ => generated 8484 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 6/6] 41.80.180.232 () {42 vars in 793 bytes} [Thu Aug 20 18:03:35 2020] GET /pages/contactus/jumbotron.css => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 7/7] 41.80.180.232 () {44 vars in 896 bytes} [Thu Aug 20 18:03:55 2020] GET /pages/clubofficers => generated 0 bytes in 8 msecs (HTTP/1.1 301) 6 headers in 211 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 8/8] 41.80.180.232 () {44 vars in 898 bytes} [Thu Aug 20 18:03:55 2020] GET /pages/clubofficers/ => generated 8415 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 9/9] 41.80.180.232 () {42 vars in 802 bytes} [Thu Aug 20 18:03:56 2020] GET /pages/clubofficers/jumbotron.css => generated 179 bytes in 7 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 10/10] 41.80.180.232 () {44 vars in 899 bytes} [Thu Aug 20 18:06:49 2020] GET /downloads/ => generated 179 bytes in 4 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 11/11] 66.249.93.24 () {38 vars in 611 bytes} [Thu Aug 20 18:09:41 2020] GET / => generated 21143 bytes in 18 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 12/12] 54.36.148.238 () {34 vars in 437 bytes} [Fri Aug 21 08:09:42 2020] GET / => generated 21143 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 13/13] 66.249.93.24 () {38 vars in 577 bytes} [Fri Aug 21 09:20:32 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 14/14] 66.249.93.26 () {38 vars in 580 bytes} [Fri Aug 21 14:34:43 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 15/15] 54.36.148.118 () {34 vars in 457 bytes} [Fri Aug 21 17:02:00 2020] GET /robots.txt => generated 179 bytes in 9 msecs (HTTP/1.1 404) 5 headers in 158 bytes (2 switches on core 0)
+[pid: 94557|app: 0|req: 16/16] 54.36.148.238 () {34 vars in 437 bytes} [Fri Aug 21 17:02:01 2020] GET / => generated 21143 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 17/17] 66.249.93.25 () {38 vars in 611 bytes} [Fri Aug 21 19:09:15 2020] GET / => generated 21143 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 18/18] 66.249.65.144 () {36 vars in 511 bytes} [Fri Aug 21 19:27:31 2020] GET /robots.txt => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 19/19] 66.249.65.142 () {38 vars in 569 bytes} [Fri Aug 21 19:27:31 2020] GET / => generated 21143 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 20/20] 66.249.93.24 () {38 vars in 612 bytes} [Sat Aug 22 07:11:07 2020] GET / => generated 21143 bytes in 19 msecs (HTTP/1.1 200) 5 headers in 168 bytes (2 switches on core 0)
+[pid: 94557|app: 0|req: 21/21] 66.249.93.26 () {38 vars in 578 bytes} [Sat Aug 22 07:37:58 2020] GET /favicon.ico => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 22/22] 197.136.63.5 () {46 vars in 900 bytes} [Sat Aug 22 07:41:00 2020] GET / => generated 21143 bytes in 17 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 23/23] 197.136.63.5 () {44 vars in 774 bytes} [Sat Aug 22 07:41:00 2020] GET /jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 24/24] 197.136.63.5 () {46 vars in 935 bytes} [Sat Aug 22 07:41:11 2020] GET /admin/ => generated 8741 bytes in 83 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 25/25] 54.36.148.75 () {34 vars in 436 bytes} [Sat Aug 22 13:47:59 2020] GET / => generated 21143 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 26/26] 66.249.93.26 () {38 vars in 577 bytes} [Sat Aug 22 17:52:14 2020] GET /favicon.ico => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 27/27] 41.80.180.232 () {42 vars in 827 bytes} [Sat Aug 22 17:55:13 2020] GET / => generated 21143 bytes in 16 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 28/28] 41.80.180.232 () {42 vars in 745 bytes} [Sat Aug 22 17:55:13 2020] GET /jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 29/29] 41.80.180.232 () {44 vars in 870 bytes} [Sat Aug 22 17:55:26 2020] GET /blog/ => generated 9053 bytes in 25 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 30/30] 41.80.180.232 () {42 vars in 760 bytes} [Sat Aug 22 17:55:26 2020] GET /blog/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 31/31] 41.80.180.232 () {44 vars in 927 bytes} [Sat Aug 22 18:06:00 2020] GET /blog/licence-application-kenya/ => generated 10297 bytes in 8 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 32/32] 41.80.180.232 () {42 vars in 838 bytes} [Sat Aug 22 18:06:00 2020] GET /blog/licence-application-kenya/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 33/33] 41.80.180.232 () {42 vars in 859 bytes} [Sat Aug 22 18:06:25 2020] GET /admin/flatpages/ => generated 2778 bytes in 13 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 34/34] 41.80.180.232 () {44 vars in 888 bytes} [Sat Aug 22 18:06:29 2020] GET /admin/ => generated 10528 bytes in 24 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 35/35] 41.80.180.232 () {44 vars in 898 bytes} [Sat Aug 22 18:06:30 2020] GET /admin/blog/post/ => generated 9348 bytes in 42 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 36/36] 41.80.180.232 () {42 vars in 746 bytes} [Sat Aug 22 18:06:31 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 37/37] 41.80.180.232 () {44 vars in 926 bytes} [Sat Aug 22 18:06:35 2020] GET /admin/blog/post/4/change/ => generated 22256 bytes in 53 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 38/38] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:06:36 2020] GET /admin/jsi18n/ => generated 3187 bytes in 8 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 39/39] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:06:37 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 5 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 40/40] 41.80.180.232 () {46 vars in 957 bytes} [Sat Aug 22 18:06:53 2020] GET /admin/blog/post/4/change/ => generated 22256 bytes in 30 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 41/41] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:06:54 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 42/42] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:06:54 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 43/43] 41.80.180.232 () {44 vars in 917 bytes} [Sat Aug 22 18:07:09 2020] GET /admin/blog/post/ => generated 9348 bytes in 22 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 44/44] 41.80.180.232 () {42 vars in 746 bytes} [Sat Aug 22 18:07:10 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 45/45] 41.80.180.232 () {44 vars in 926 bytes} [Sat Aug 22 18:07:12 2020] GET /admin/blog/post/3/change/ => generated 13786 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 46/46] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:07:13 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 47/47] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:07:13 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 48/48] 41.80.180.232 () {46 vars in 957 bytes} [Sat Aug 22 18:12:28 2020] GET /admin/blog/post/3/change/ => generated 13786 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 49/49] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:12:29 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 50/50] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:12:29 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 51/51] 41.80.180.232 () {46 vars in 957 bytes} [Sat Aug 22 18:12:30 2020] GET /admin/blog/post/3/change/ => generated 13786 bytes in 31 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 52/52] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:12:31 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 53/53] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:12:31 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 54/54] 41.80.180.232 () {44 vars in 907 bytes} [Sat Aug 22 18:12:44 2020] GET /admin/blog/ => generated 2697 bytes in 13 msecs (HTTP/1.1 200) 8 headers in 293 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 55/55] 41.80.180.232 () {44 vars in 911 bytes} [Sat Aug 22 18:12:47 2020] GET /admin/blog/post/add/ => generated 12353 bytes in 29 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 56/56] 41.80.180.232 () {42 vars in 750 bytes} [Sat Aug 22 18:12:47 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 94557|app: 0|req: 57/57] 41.80.180.232 () {44 vars in 938 bytes} [Sat Aug 22 18:12:48 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 349 bytes (1 switches on core 0)
+Sat Aug 22 18:20:47 2020 - received message 0 from emperor
+SIGINT/SIGQUIT received...killing workers...
+uwsgi_master_manage_emperor()/read(): Bad file descriptor [core/emperor.c line 2442]
+lost connection with my emperor !!!
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Aug 22 18:20:51 2020] ***
+compiled with version: 10.1.0 on 14 July 2020 00:20:03
+os: Linux-5.7.5-arch1-1 #1 SMP PREEMPT Mon, 22 Jun 2020 08:10:02 +0000
+nodename: localhost
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /etc/uwsgi/vassals
+detected binary path: /usr/bin/uwsgi
+setgid() to 33
+setuid() to 33
+chdir() to /var/www/rsk/
+your processes number limit is 3858
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /var/www/rsk/uwsgi.sock fd 6
+Python version: 3.8.5 (default, Jul 27 2020, 08:42:51)  [GCC 10.1.0]
+Python main interpreter initialized at 0x562139c59660
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145840 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x562139c59660 pid: 100397 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 100397)
+spawned uWSGI worker 1 (pid: 100399, cores: 1)
+[pid: 100399|app: 0|req: 1/1] 41.80.180.232 () {44 vars in 912 bytes} [Sat Aug 22 18:21:15 2020] GET /admin/blog/post/ => generated 9348 bytes in 598 msecs (HTTP/1.1 200) 9 headers in 467 bytes (1 switches on core 0)
+announcing my loyalty to the Emperor...
+[pid: 100399|app: 0|req: 2/2] 41.80.180.232 () {42 vars in 746 bytes} [Sat Aug 22 18:21:16 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 3/3] 41.80.180.232 () {44 vars in 926 bytes} [Sat Aug 22 18:21:19 2020] GET /admin/blog/post/4/change/ => generated 22256 bytes in 45 msecs (HTTP/1.1 200) 9 headers in 468 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 4/4] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:21:19 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 5/5] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:21:19 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 4 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 6/6] 41.80.180.232 () {42 vars in 847 bytes} [Sat Aug 22 18:22:16 2020] GET /summernote => generated 179 bytes in 8 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 7/7] 41.80.180.232 () {42 vars in 849 bytes} [Sat Aug 22 18:22:27 2020] GET /summernote/ => generated 179 bytes in 4 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 8/8] 41.80.180.232 () {52 vars in 1186 bytes} [Sat Aug 22 18:26:38 2020] POST /admin/blog/post/4/change/ => generated 0 bytes in 21 msecs (HTTP/1.1 302) 10 headers in 629 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 9/9] 41.80.180.232 () {46 vars in 1213 bytes} [Sat Aug 22 18:26:38 2020] GET /admin/blog/post/4/change/ => generated 22490 bytes in 30 msecs (HTTP/1.1 200) 10 headers in 566 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 10/10] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:26:38 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 11/11] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:26:39 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 12/12] 41.80.180.232 () {46 vars in 958 bytes} [Sat Aug 22 18:26:43 2020] GET /blog/licence-application-kenya/ => generated 10297 bytes in 8 msecs (HTTP/1.1 200) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 13/13] 41.80.180.232 () {42 vars in 838 bytes} [Sat Aug 22 18:26:44 2020] GET /blog/licence-application-kenya/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 14/14] 41.80.180.232 () {44 vars in 901 bytes} [Sat Aug 22 18:26:55 2020] GET /blog/ => generated 9722 bytes in 29 msecs (HTTP/1.1 200) 5 headers in 173 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 15/15] 41.80.180.232 () {42 vars in 760 bytes} [Sat Aug 22 18:26:55 2020] GET /blog/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 16/16] 41.80.180.232 () {44 vars in 891 bytes} [Sat Aug 22 18:27:03 2020] GET /blog/License/ => generated 14116 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 17/17] 41.80.180.232 () {42 vars in 784 bytes} [Sat Aug 22 18:27:04 2020] GET /blog/License/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 18/18] 41.80.180.232 () {44 vars in 883 bytes} [Sat Aug 22 18:27:16 2020] GET /blog/ => generated 9722 bytes in 25 msecs (HTTP/1.1 200) 5 headers in 173 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 19/19] 41.80.180.232 () {42 vars in 760 bytes} [Sat Aug 22 18:27:17 2020] GET /blog/jumbotron.css => generated 179 bytes in 5 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 20/20] 41.80.180.232 () {44 vars in 899 bytes} [Sat Aug 22 18:28:07 2020] GET /blog/sample-post/ => generated 7757 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 173 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 21/21] 41.80.180.232 () {42 vars in 796 bytes} [Sat Aug 22 18:28:07 2020] GET /blog/sample-post/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 22/22] 41.80.180.232 () {44 vars in 917 bytes} [Sat Aug 22 18:28:17 2020] GET /admin/blog/post/ => generated 9348 bytes in 21 msecs (HTTP/1.1 200) 9 headers in 467 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 23/23] 41.80.180.232 () {42 vars in 746 bytes} [Sat Aug 22 18:28:18 2020] GET /admin/jsi18n/ => generated 3187 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 24/24] 41.80.180.232 () {44 vars in 926 bytes} [Sat Aug 22 18:28:19 2020] GET /admin/blog/post/3/change/ => generated 13786 bytes in 26 msecs (HTTP/1.1 200) 9 headers in 468 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 25/25] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:28:20 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 26/26] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:28:20 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 3 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 27/27] 41.80.180.232 () {44 vars in 917 bytes} [Sat Aug 22 18:28:31 2020] GET /admin/blog/post/ => generated 9348 bytes in 24 msecs (HTTP/1.1 200) 9 headers in 467 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 28/28] 41.80.180.232 () {42 vars in 746 bytes} [Sat Aug 22 18:28:32 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 29/29] 41.80.180.232 () {44 vars in 916 bytes} [Sat Aug 22 18:28:34 2020] GET /admin/blog/post/add/ => generated 12353 bytes in 27 msecs (HTTP/1.1 200) 9 headers in 468 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 30/30] 41.80.180.232 () {42 vars in 750 bytes} [Sat Aug 22 18:28:34 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 31/31] 41.80.180.232 () {44 vars in 938 bytes} [Sat Aug 22 18:28:35 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 32/32] 41.80.180.232 () {52 vars in 1171 bytes} [Sat Aug 22 18:32:13 2020] POST /admin/blog/post/add/ => generated 13232 bytes in 31 msecs (HTTP/1.1 200) 9 headers in 468 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 33/33] 41.80.180.232 () {42 vars in 750 bytes} [Sat Aug 22 18:32:13 2020] GET /admin/jsi18n/ => generated 3187 bytes in 6 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 34/34] 41.80.180.232 () {44 vars in 938 bytes} [Sat Aug 22 18:32:13 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 35/35] 41.80.180.232 () {52 vars in 1171 bytes} [Sat Aug 22 18:33:01 2020] POST /admin/blog/post/add/ => generated 0 bytes in 22 msecs (HTTP/1.1 302) 10 headers in 650 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 36/36] 41.80.180.232 () {46 vars in 1229 bytes} [Sat Aug 22 18:33:02 2020] GET /admin/blog/post/5/change/ => generated 13522 bytes in 27 msecs (HTTP/1.1 200) 10 headers in 566 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 37/37] 41.80.180.232 () {42 vars in 755 bytes} [Sat Aug 22 18:33:02 2020] GET /admin/jsi18n/ => generated 3187 bytes in 7 msecs (HTTP/1.1 200) 6 headers in 195 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 38/38] 41.80.180.232 () {44 vars in 943 bytes} [Sat Aug 22 18:33:03 2020] GET /summernote/editor/id_content/ => generated 7151 bytes in 2 msecs (HTTP/1.1 200) 7 headers in 355 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 39/39] 41.80.180.232 () {44 vars in 887 bytes} [Sat Aug 22 18:33:10 2020] GET /blog/ => generated 10419 bytes in 25 msecs (HTTP/1.1 200) 5 headers in 174 bytes (1 switches on core 0)
+[pid: 100399|app: 0|req: 40/40] 41.80.180.232 () {42 vars in 760 bytes} [Sat Aug 22 18:33:10 2020] GET /blog/jumbotron.css => generated 179 bytes in 6 msecs (HTTP/1.1 404) 5 headers in 164 bytes (1 switches on core 0)
