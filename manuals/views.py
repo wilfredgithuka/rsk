@@ -17,5 +17,5 @@ from django.views import generic
 
 class ManualsList(generic.ListView):
     queryset = Manuals.objects.order_by('-created_on')
-    template_name = 'downloads.html'
+    template_name = 'manuals.html'
     paginate_by = 30
