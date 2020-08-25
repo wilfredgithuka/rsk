@@ -30,6 +30,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('operator/', include('ham_operators.urls')),
     path('summernote/', include('django_summernote.urls')),
+    path('manuals/', include('manuals.urls')),
     #path('files_list/',include('downloads.urls')),
     #path(r'^download/(?P<file_name>.+)$', 'downloads.views.download'),
 ]

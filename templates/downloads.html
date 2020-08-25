@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- -In the blog page I dont need the containers so I shall hapilly remove them -->>
+
+<style>
+    body {
+        font-family: "Roboto", sans-serif;
+        font-size: 18px;
+        background-color: #fdfdfd;
+    }
+
+    .head_text {
+        color: white;
+    }
+    .head_logo>img {
+        height: 100%;
+        padding: 15px;
+        width: auto;
+    }
+
+    .card {
+        box-shadow: 0 16px 48px #E3E7EB;
+    }
+
+</style>
+   <body>
+      <div class = "container">
+         <h1>Manuals & Related Documents</h1>
+         <p>The following is a curated list of Armateur Radio Documents </p>
+
+         {% if manuals_list %}
+         <ul>
+           {% for manuals in manuals_list %}
+             <li>
+               <a href="{{ manuals.get_absolute_url }}">{{ manuals.title }}</a>  - {{ manuals.description }}
+               <p> Size: {{ manuals.file.size}} Format:{{ manuals.format }}</p>
+             </li>
+           {% endfor %}
+         </ul>
+         {% else %}
+           <p>There are no manuals in the library.</p>
+         {% endif %}
+      </div>
+{%endblock%}

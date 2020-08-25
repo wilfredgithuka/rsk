@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'map',
     'home',
     'django_summernote',
+    'manuals',
 ]
 
 MIDDLEWARE = [
@@ -133,4 +134,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = '/var/www/rsk/static'
-X_FRAME_OPTIONS = 'SAMEORIGIN' 
+X_FRAME_OPTIONS = 'SAMEORIGIN'
