@@ -28,7 +28,7 @@ urlpatterns = [
     path('blog/', include ('blog.urls')),
     path('', include('home.urls')),
     path('admin/', admin.site.urls),
-    path('operator/', include('ham_operators.urls')),
+    path('callbook/', include('ham_operators.urls')),
     path('summernote/', include('django_summernote.urls')),
     path('manuals/', include('manuals.urls')),
     #path('files_list/',include('downloads.urls')),

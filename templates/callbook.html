@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!-- -In the blog page I dont need the containers so I shall hapilly remove them -->
+
+<style>
+    body {
+        font-family: "Roboto", sans-serif;
+        font-size: 18px;
+        background-color: #fdfdfd;
+    }
+
+    .head_text {
+        color: white;
+    }
+    .head_logo>img {
+        height: 100%;
+        padding: 15px;
+        width: auto;
+    }
+
+    .card {
+        box-shadow: 0 16px 48px #E3E7EB;
+    }
+
+</style>
+   <body>
+      <div class = "container">
+         <h1>RSK Call Book</h1>
+         <p>This list does not claim to be exhaustive, and is intended only to give the details of as many Kenya licensed
+           amateurs as possible.Some licenses may not have been renewed but are still included and their original validity
+           is not in question. Please note that the RSK is not normally able to handle QSL cards for non-members but will
+           help if at all possible.  </p>
+
+         {% if operator_list %}
+         <ul>
+           {% for operator in operator_list %}
+             <li>
+               <p>{{ operator.call }} - {{operator.name}} {{operator.address}} {{operator.telephone}}</p>
+             </li>
+           {% endfor %}
+         </ul>
+         {% else %}
+           <p>There are no manuals in the library.</p>
+         {% endif %}
+         <p> N.B.  Calls with a three letter suffix ending in “N” are Novices. About 50 Novice license have been issued but only the
+           known active ones are shown. This list is as accurate as we can make it, but we are not always aware of new or cancelled calls.</p>
+         <p> Visitor's information may not be fully accurate.</p>
+         <p> NOTIFICATION OF ANY ERRORS WILL BE WELCOME.</p>
+      </div>
+{%endblock%}
