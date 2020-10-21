@@ -33,7 +33,7 @@
          <ul>
            {% for manuals in manuals_list %}
              <li>
-               <a href="{{ manuals.get_absolute_url }}">{{ manuals.title }}</a>  - {{ manuals.description }}
+               <a href="{{ manuals.url }}">{{ manuals.title }}</a>  - {{ manuals.description }}
                <p> Size: {{ manuals.file.size}} Format:{{ manuals.format }}</p>
              </li>
            {% endfor %}

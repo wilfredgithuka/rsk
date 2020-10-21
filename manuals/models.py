@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
+from django.urls import reverse
 
 class Manuals(models.Model):
     title = models.CharField(max_length=200)
@@ -12,7 +13,7 @@ class Manuals(models.Model):
         ('.pdf', 'PDF'),
         ('.doc', 'Ms Word <2017'),
         ('.docx', 'Ms Word >2017'),
-        ('.jpeg', 'JPEG Image File'),
+        ('.jpg', 'JPEG Image File'),
     )
 
     format = models.CharField(
@@ -45,3 +46,6 @@ class Manuals(models.Model):
             value = round(x/1000000000, 2)
             ext = ' Gb'
         return str(value)+ext
+
+    #def get_absolute_url(self):
+    #    return reverse('all_manuals', args=[str(self.title)])
