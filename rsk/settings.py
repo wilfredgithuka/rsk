@@ -27,7 +27,7 @@ SECRET_KEY = ')u$et+bfu)l+0!axv6-=unj)&&o24*^mzf%mb44mlovx1%c(v4'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-     'rsk.or.ke', '172.104.163.124',
+     'cq.rsk.or.ke', '172.104.163.124',
 ]
 
 
