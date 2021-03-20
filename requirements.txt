@@ -17,7 +17,7 @@ folium==0.11.0
 gizoogle==0.0.1
 html5lib==1.1
 idna==2.10
-Jinja2==2.11.2
+Jinja2==2.11.3
 lensfun==0.3.95
 lxml==4.5.2
 MarkupSafe==1.1.1
