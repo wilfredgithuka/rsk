@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+from environ import Env
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -20,15 +21,18 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = ')u$et+bfu)l+0!axv6-=unj)&&o24*^mzf%mb44mlovx1%c(v4'
+env = Env()
+
+env.read_env
+
+SECRET_KEY = 'MY_SECRET_KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = [
-     'cq.rsk.or.ke', '172.104.163.124',
-]
+#ALLOWED_HOSTS = [
+#     'cq.rsk.or.ke', '172.104.163.124',
+#]
 
 
 # Application definition
