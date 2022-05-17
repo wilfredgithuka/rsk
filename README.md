@@ -1,3 +1,5 @@
+![alt text](https://avic-storage.ap-south-1.linodeobjects.com/home.png)
+
 ## Radio Society of Kenya
 Radio Society of Kenya is a group of amateur rado operators from all levels with a common interest in amateur radio.
 
