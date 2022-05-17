@@ -1,22 +1,31 @@
 {% extends "base.html" %}
 {% block content %}
 
+
+<main role="main">
+
+  <!-- Main header setion for rsk title bar -->
+  <div class="jumbotron">
+    <p><img src="http://rsk.or.ke/media/django-summernote/2020-08-19/60893626-f1f5-4ab4-a31a-6884a1ce331b.png" alt="Smiley face" style="float:left;width:90px;height:180px;"></p>
+    <div class="container">
+      <h1 class="display-3">The Radio Society of Kenya</h1>
+      <p>{{ data.description }} </p>
+    </div>
+  </div>
+
+</main>
+
 <div class="container">
     <!-- Some columns am working on -->
     <div class="row">
       <div class="col-md-4">
         <h2>What is Ham Radio?</h2>
-        <p style="font-size:90%;">Amateur radio, also known as ham radio, is the use of radio frequency spectrum for purposes of non-commercial exchange of messages, wireless experimentation, self-training, private recreation, radiosport, contesting, and emergency communication.The amateur radio service (amateur service and amateur-satellite service) is established by the (ITU).</p>
+        <p style="font-size:90%;">{{ data.box1 }}</p>
         <p><a class="btn btn-secondary" href="/about/" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">
         <h2>RSK Officers</h2>
-        <p style="font-size:80%;"> Chairman: David Mutonga, 5Z4DJ +254 722 822 480</p>
-        <p style="font-size:80%;"> Dep. Chairman: Anthony Kagotho, 5Z4OC </p>
-        <p style="font-size:80%;"> Sec: Ted Alleyne, 5Z4NU. +254 733 746 788</p>
-        <p style="font-size:80%;"> Treasurer Hemant Patel, 5Z4HP </p>
-        <p style="font-size:80%;"> IARU and STARS Rep. Max Raicha, 5Z4MR </p>
-
+        <p style="font-size:80%;"> {{ data.box2 }}</p>
         <p><a class="btn btn-secondary" href="/about/" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">

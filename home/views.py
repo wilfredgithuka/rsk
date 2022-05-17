@@ -3,7 +3,7 @@ from django.views.generic import TemplateView
 from django.views.generic.detail import DetailView
 from django.utils import timezone
 
-#from .models import HomeItems
+from .models import HomeItems
 from django.views import generic
 from map.utils import generate_beacon_map
 
@@ -16,11 +16,17 @@ class HomePageView(TemplateView):
         context["beacon_map"] = beacon_map
         return context
 
-# class HomeItemsView(DetailView):
-#     model = HomeItems
-#     #queryset = HomeItems.objects.all()
-#     template_name = 'test.html'
-#     context_object_name = 'homeitems'
+# def HomeItemsView(request, id):
+#     context = {}
+#     context["data"] = HomeItems.objects.get(id = id)
+#     return render(request,"home.html", context)
+
+
+class HomeItemsView(DetailView):
+    model = HomeItems
+    #queryset = HomeItems.objects.all()
+    template_name = 'home.html'
+    context_object_name = 'data'
 
 # class HomeItemsView(DetailView):
 #     model = HomeItems

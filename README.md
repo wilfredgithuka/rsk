@@ -6,6 +6,7 @@ each month at 10 am at the Shack, Woodley Estate, but sometimes changed for conv
 contact the Chairman (0722 822480) or Secretary (0733 746 788) for more information.
 
 ## Task
+
 Design a functional updated website for the Radio Society of Kenya
 
 ## Website Requirements
@@ -19,11 +20,11 @@ Design a functional updated website for the Radio Society of Kenya
 ## Technology Stack
 
 * Django Backend
-* Java/HTML CSS Front End
+* HTML CSS Front End
 
 ## Current Webite
 
-* The current site for rsk is hosted at: https://www.qsl.net/arsk/index.htm
+* The current site for rsk is hosted at: https://www.qsl.net/arsk/index.htm and https:www.rsk.or.ke
 
 ## Developer
 
