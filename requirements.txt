@@ -62,7 +62,7 @@ decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 distributed @ file:///tmp/build/80754af9/distributed_1635956221111/work
-Django==4.0.4
+Django==4.0.6
 django-bootstrap4==22.1
 django-environ==0.8.1
 django-summernote==0.8.20.0
